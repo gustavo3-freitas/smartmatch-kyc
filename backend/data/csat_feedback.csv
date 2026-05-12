@@ -1,0 +1,1001 @@
+id,cliente,comentario,canal,produto,nps_score,data
+1,Brenda Alves,"Péssimo atendimento, fiquei horas esperando",Agência,Cartão de Crédito,5,2026-05-11
+2,Henry Gabriel Carvalho,"Excelente suporte, problema resolvido em minutos",Chat Online,Conta Corrente,9,2026-05-11
+3,Ísis Borges,"Atendimento normal, dentro do esperado",App Mobile,Cartão de Crédito,7,2026-05-11
+4,Ana Beatriz Alves,"Sem filas, atendimento ágil e eficaz",Chat Online,Cartão de Crédito,9,2026-05-11
+5,Igor Montenegro,App não funciona no meu celular há meses,Call Center,Cartão de Crédito,4,2026-05-11
+6,Gael Henrique Silva,"Atendimento razoável, nem bom nem ruim",Internet Banking,Investimento,7,2026-05-11
+7,Dra. Mariah Câmara,"Transferência realizada sem problemas, ótimo serviço",Agência,Conta Corrente,9,2026-05-11
+8,Lara Abreu,"Aplicativo funciona muito bem, fácil de usar",Agência,Pix,10,2026-05-11
+9,Sra. Manuela da Mota,"Atendimento excelente, muito rápido e eficiente",Chat Online,Conta Corrente,10,2026-05-11
+10,Lucca Caldeira,Atendente grosseiro e sem paciência,Chat Online,Empréstimo,0,2026-05-11
+11,Aylla Fogaça,Impossível falar com um humano no suporte,Agência,Pix,6,2026-05-11
+12,Julia Aparecida,"Aplicativo funciona muito bem, fácil de usar",Internet Banking,Empréstimo,9,2026-05-11
+13,Camila Garcia,Juros altíssimos sem comunicação prévia,App Mobile,Investimento,1,2026-05-11
+14,Laís Pires,Gostei muito do novo sistema de pagamentos,Internet Banking,Empréstimo,10,2026-05-11
+15,Sr. Bernardo Aparecida,Gostei muito do novo sistema de pagamentos,App Mobile,Pix,10,2026-05-11
+16,Bruno da Conceição,Transferência falhou e o dinheiro sumiu,Internet Banking,Cartão de Crédito,5,2026-05-11
+17,Lara Marques,"Atendimento razoável, nem bom nem ruim",Agência,Conta Corrente,7,2026-05-11
+18,Sr. Léo Fogaça,"Atendimento excelente, muito rápido e eficiente",Call Center,Empréstimo,10,2026-05-11
+19,Juliana Sampaio,"Serviço digital de qualidade, parabéns",Internet Banking,Investimento,10,2026-05-11
+20,Enzo Gabriel Nascimento,"Serviço digital de qualidade, parabéns",Internet Banking,Empréstimo,10,2026-05-11
+21,Ravi Garcia,"Excelente suporte, problema resolvido em minutos",Chat Online,Investimento,10,2026-05-11
+22,Hellena Rodrigues,Atendente grosseiro e sem paciência,Internet Banking,Cartão de Crédito,2,2026-05-11
+23,Ian Andrade,"Nada de especial, mas funcionou",App Mobile,Cartão de Crédito,7,2026-05-11
+24,Juliana Azevedo,Promessas não cumpridas pelo gerente,Call Center,Pix,5,2026-05-11
+25,Luara Cunha,"Crédito aprovado rapidamente, processo simples",Chat Online,Empréstimo,10,2026-05-11
+26,Maria Laura Ramos,Juros altíssimos sem comunicação prévia,App Mobile,Pix,0,2026-05-11
+27,João Carvalho,Promessas não cumpridas pelo gerente,Agência,Conta Corrente,5,2026-05-11
+28,Dra. Zoe da Luz,"Transferência realizada sem problemas, ótimo serviço",App Mobile,Empréstimo,10,2026-05-11
+29,Maria Liz Fonseca,Promessas não cumpridas pelo gerente,Chat Online,Conta Corrente,1,2026-05-11
+30,Thomas Monteiro,"Serviço horrível, vou trocar de banco",Chat Online,Pix,6,2026-05-11
+31,Daniel Cassiano,"O banco melhorou muito, estou impressionado",Chat Online,Pix,9,2026-05-11
+32,Otávio Peixoto,Impossível falar com um humano no suporte,Call Center,Conta Corrente,2,2026-05-11
+33,Maria Helena Peixoto,"O banco melhorou muito, estou impressionado",Internet Banking,Conta Corrente,10,2026-05-11
+34,Isis Novaes,"Sem filas, atendimento ágil e eficaz",App Mobile,Investimento,9,2026-05-11
+35,Bruna Rodrigues,Promessas não cumpridas pelo gerente,Internet Banking,Cartão de Crédito,4,2026-05-11
+36,Luigi Camargo,Transferência falhou e o dinheiro sumiu,Agência,Pix,1,2026-05-11
+37,Eduarda Marques,Atendente grosseiro e sem paciência,Chat Online,Cartão de Crédito,1,2026-05-11
+38,Dra. Julia Montenegro,Atendente grosseiro e sem paciência,Agência,Investimento,5,2026-05-11
+39,Bianca Pires,Sistema fora do ar no momento mais importante,Internet Banking,Cartão de Crédito,0,2026-05-11
+40,Sofia Pereira,"Atendimento excelente, muito rápido e eficiente",Chat Online,Cartão de Crédito,9,2026-05-11
+41,Marcelo Teixeira,"Excelente suporte, problema resolvido em minutos",Internet Banking,Conta Corrente,9,2026-05-11
+42,Vitória Abreu,Juros altíssimos sem comunicação prévia,App Mobile,Pix,2,2026-05-11
+43,Dr. Antony Camargo,Gostei muito do novo sistema de pagamentos,Internet Banking,Pix,10,2026-05-11
+44,Isaque Araújo,"Serviço digital de qualidade, parabéns",Internet Banking,Investimento,10,2026-05-11
+45,Anna Liz Barros,Ninguém resolve meu problema faz semanas,App Mobile,Investimento,0,2026-05-11
+46,Vitor Vargas,"Crédito aprovado rapidamente, processo simples",App Mobile,Conta Corrente,10,2026-05-11
+47,Renan Novaes,"Excelente suporte, problema resolvido em minutos",App Mobile,Cartão de Crédito,10,2026-05-11
+48,Vinícius Pereira,App atualizado ficou muito melhor,Internet Banking,Investimento,10,2026-05-11
+49,Vitor Hugo Sá,Atendente muito educado e resolveu tudo,App Mobile,Investimento,9,2026-05-11
+50,Sra. Maria Liz Rios,Juros altíssimos sem comunicação prévia,App Mobile,Conta Corrente,4,2026-05-11
+51,Dr. Valentim Machado,Transferência falhou e o dinheiro sumiu,App Mobile,Conta Corrente,6,2026-05-11
+52,Henry Gabriel Azevedo,Juros altíssimos sem comunicação prévia,Internet Banking,Investimento,1,2026-05-11
+53,Yuri da Conceição,"O aplicativo é ok, poderia ser melhor",App Mobile,Cartão de Crédito,8,2026-05-11
+54,André Barbosa,"Crédito aprovado rapidamente, processo simples",Call Center,Empréstimo,10,2026-05-11
+55,Ian Azevedo,Cumpriu o que prometeu,Internet Banking,Cartão de Crédito,8,2026-05-11
+56,Sr. Théo da Costa,"Atendimento excelente, muito rápido e eficiente",Agência,Conta Corrente,9,2026-05-11
+57,Raquel Cunha,Atendente muito educado e resolveu tudo,App Mobile,Pix,9,2026-05-11
+58,Renan da Cruz,"Transferência realizada sem problemas, ótimo serviço",Chat Online,Conta Corrente,9,2026-05-11
+59,Esther Brito,Ninguém resolve meu problema faz semanas,App Mobile,Pix,3,2026-05-11
+60,Marina Fogaça,"Sem filas, atendimento ágil e eficaz",Chat Online,Conta Corrente,9,2026-05-11
+61,Nina Siqueira,"Experiência mediana, nada marcante",Agência,Cartão de Crédito,8,2026-05-11
+62,Beatriz Araújo,Taxa abusiva sem nenhuma explicação,Agência,Investimento,1,2026-05-11
+63,Sra. Bianca da Cruz,Gostei muito do novo sistema de pagamentos,Call Center,Empréstimo,10,2026-05-11
+64,Vitor Gabriel Machado,Experiência terrível do início ao fim,App Mobile,Investimento,0,2026-05-11
+65,Emilly da Mota,Impossível falar com um humano no suporte,App Mobile,Pix,0,2026-05-11
+66,Breno Macedo,"Resolução rápida do meu problema, fiquei satisfeito",Agência,Conta Corrente,9,2026-05-11
+67,Benicio Rezende,Taxa abusiva sem nenhuma explicação,Internet Banking,Investimento,2,2026-05-11
+68,Caleb Sá,App não funciona no meu celular há meses,Chat Online,Pix,2,2026-05-11
+69,Nicolas Mendonça,Fui bem atendido em todas as etapas,App Mobile,Cartão de Crédito,10,2026-05-11
+70,Murilo Araújo,"Serviço digital de qualidade, parabéns",Chat Online,Cartão de Crédito,9,2026-05-11
+71,Agatha Gomes,"Sem filas, atendimento ágil e eficaz",Agência,Cartão de Crédito,9,2026-05-11
+72,Laura Lima,Juros altíssimos sem comunicação prévia,Chat Online,Investimento,2,2026-05-11
+73,Raquel Cassiano,"Serviço digital de qualidade, parabéns",App Mobile,Investimento,9,2026-05-11
+74,Henrique Araújo,"Péssimo atendimento, fiquei horas esperando",Agência,Cartão de Crédito,0,2026-05-11
+75,Dra. Ana Liz Souza,"Serviço horrível, vou trocar de banco",Call Center,Pix,1,2026-05-11
+76,Benicio Pacheco,Transferência falhou e o dinheiro sumiu,App Mobile,Conta Corrente,0,2026-05-11
+77,Vitória Castro,App não funciona no meu celular há meses,Chat Online,Conta Corrente,1,2026-05-11
+78,Anna Liz Cirino,Impossível falar com um humano no suporte,Internet Banking,Investimento,4,2026-05-11
+79,Ana Lívia Rocha,"Resolução rápida do meu problema, fiquei satisfeito",App Mobile,Empréstimo,10,2026-05-11
+80,Bárbara Nunes,Equipe super atenciosa e prestativa,Agência,Pix,9,2026-05-11
+81,Ana Cecília Pinto,Atendente grosseiro e sem paciência,Internet Banking,Cartão de Crédito,4,2026-05-11
+82,Stephany Dias,Promessas não cumpridas pelo gerente,Internet Banking,Investimento,6,2026-05-11
+83,Levi da Costa,"Excelente suporte, problema resolvido em minutos",Call Center,Cartão de Crédito,10,2026-05-11
+84,Caroline Rios,"Taxa justa e transparente, recomendo",Call Center,Conta Corrente,9,2026-05-11
+85,Raul Dias,Ninguém resolve meu problema faz semanas,Call Center,Empréstimo,1,2026-05-11
+86,Raul Pinto,"Taxa justa e transparente, recomendo",Internet Banking,Conta Corrente,9,2026-05-11
+87,Brayan Nascimento,Atendente grosseiro e sem paciência,Agência,Conta Corrente,2,2026-05-11
+88,Julia Cardoso,"Serviço horrível, vou trocar de banco",Chat Online,Investimento,2,2026-05-11
+89,Joaquim Freitas,Juros altíssimos sem comunicação prévia,Agência,Conta Corrente,4,2026-05-11
+90,Pedro Lucas Nogueira,"Resolução rápida do meu problema, fiquei satisfeito",Chat Online,Empréstimo,9,2026-05-11
+91,Vitória Albuquerque,"Sem filas, atendimento ágil e eficaz",Agência,Empréstimo,10,2026-05-11
+92,Cauã Carvalho,Cumpriu o que prometeu,Call Center,Pix,7,2026-05-11
+93,Cauê Souza,"Atendimento excelente, muito rápido e eficiente",App Mobile,Pix,10,2026-05-11
+94,João Gabriel da Paz,Transferência falhou e o dinheiro sumiu,Internet Banking,Empréstimo,5,2026-05-11
+95,Luigi Costela,Processo burocrático mas concluído,App Mobile,Empréstimo,8,2026-05-11
+96,Thiago Mendonça,Esperei bastante mas fui atendido,Call Center,Empréstimo,8,2026-05-11
+97,Caleb Porto,"O aplicativo é ok, poderia ser melhor",Call Center,Cartão de Crédito,8,2026-05-11
+98,Augusto Abreu,"Serviço horrível, vou trocar de banco",Chat Online,Conta Corrente,3,2026-05-11
+99,João Castro,Equipe super atenciosa e prestativa,Chat Online,Pix,10,2026-05-11
+100,Mariane Novais,Sistema fora do ar no momento mais importante,Call Center,Cartão de Crédito,3,2026-05-11
+101,Breno Sales,Demorou um pouco mas resolveu,Agência,Pix,7,2026-05-11
+102,Ana Carolina Freitas,Impossível falar com um humano no suporte,App Mobile,Cartão de Crédito,2,2026-05-11
+103,Clara Lopes,Ninguém resolve meu problema faz semanas,Internet Banking,Cartão de Crédito,6,2026-05-11
+104,Leandro Fonseca,Equipe super atenciosa e prestativa,Chat Online,Conta Corrente,10,2026-05-11
+105,Sr. Josué Rios,"Experiência mediana, nada marcante",Call Center,Investimento,7,2026-05-11
+106,Dr. Eduardo da Costa,"Transferência realizada sem problemas, ótimo serviço",App Mobile,Investimento,9,2026-05-11
+107,Noah Alves,"Taxa justa e transparente, recomendo",App Mobile,Pix,10,2026-05-11
+108,Sra. Maria Sophia Rios,Fui bem atendido em todas as etapas,Call Center,Cartão de Crédito,9,2026-05-11
+109,Emanuel Viana,Cancelei o cartão e continuaram cobrando,Chat Online,Pix,4,2026-05-11
+110,Ana Carolina Melo,"Taxa justa e transparente, recomendo",Chat Online,Pix,10,2026-05-11
+111,Raul Ferreira,Cumpriu o que prometeu,Internet Banking,Investimento,8,2026-05-11
+112,Henry Gabriel Alves,"O aplicativo é ok, poderia ser melhor",Chat Online,Investimento,8,2026-05-11
+113,Luísa da Mota,"Serviço horrível, vou trocar de banco",App Mobile,Empréstimo,3,2026-05-11
+114,Luiz Fernando Ramos,"O banco melhorou muito, estou impressionado",Chat Online,Conta Corrente,10,2026-05-11
+115,Zoe Farias,Equipe super atenciosa e prestativa,Internet Banking,Cartão de Crédito,10,2026-05-11
+116,José Pedro Cavalcanti,"Crédito aprovado rapidamente, processo simples",Chat Online,Investimento,10,2026-05-11
+117,Arthur Miguel Caldeira,"O aplicativo é ok, poderia ser melhor",Call Center,Pix,8,2026-05-11
+118,Manuella Siqueira,"Péssimo atendimento, fiquei horas esperando",Chat Online,Investimento,6,2026-05-11
+119,Sophia Camargo,Processo burocrático mas concluído,Call Center,Investimento,8,2026-05-11
+120,Esther da Cunha,Cumpriu o que prometeu,Call Center,Cartão de Crédito,7,2026-05-11
+121,Sra. Agatha Moreira,Atendente muito educado e resolveu tudo,Call Center,Empréstimo,9,2026-05-11
+122,Fernanda Fonseca,Promessas não cumpridas pelo gerente,Internet Banking,Investimento,3,2026-05-11
+123,Lucas Pinto,Impossível falar com um humano no suporte,App Mobile,Investimento,4,2026-05-11
+124,Camila Silveira,"Atendimento normal, dentro do esperado",Call Center,Cartão de Crédito,7,2026-05-11
+125,Luana Rios,"Cobrança indevida na minha conta, absurdo",Agência,Investimento,0,2026-05-11
+126,Dr. Juan Novaes,Atendente muito educado e resolveu tudo,Agência,Investimento,10,2026-05-11
+127,Otto Rios,Fui bem atendido em todas as etapas,Agência,Conta Corrente,10,2026-05-11
+128,Emanuella Pimenta,Cumpriu o que prometeu,Agência,Cartão de Crédito,7,2026-05-11
+129,Nathan Novaes,Promessas não cumpridas pelo gerente,App Mobile,Conta Corrente,5,2026-05-11
+130,João Pedro Costela,Ninguém resolve meu problema faz semanas,App Mobile,Pix,6,2026-05-11
+131,Luna Martins,"Transferência realizada sem problemas, ótimo serviço",App Mobile,Pix,10,2026-05-11
+132,Hadassa Moraes,Sistema fora do ar no momento mais importante,Agência,Empréstimo,5,2026-05-11
+133,Srta. Antonella da Paz,"Sem filas, atendimento ágil e eficaz",Internet Banking,Empréstimo,9,2026-05-11
+134,Lívia Borges,"Atendimento excelente, muito rápido e eficiente",Chat Online,Investimento,10,2026-05-11
+135,Luana Câmara,"Excelente suporte, problema resolvido em minutos",App Mobile,Pix,9,2026-05-11
+136,Apollo Aparecida,Cancelei o cartão e continuaram cobrando,App Mobile,Empréstimo,1,2026-05-11
+137,Ana Sophia Marques,Impossível falar com um humano no suporte,App Mobile,Pix,6,2026-05-11
+138,Evelyn Silva,Taxa abusiva sem nenhuma explicação,Call Center,Empréstimo,4,2026-05-11
+139,Maria Liz da Cruz,Gostei muito do novo sistema de pagamentos,App Mobile,Investimento,10,2026-05-11
+140,Alana Sá,"Aplicativo travou várias vezes, muito ruim",Agência,Investimento,3,2026-05-11
+141,Hellena Cavalcanti,Atendente grosseiro e sem paciência,Chat Online,Empréstimo,1,2026-05-11
+142,Ana Julia Novais,Experiência terrível do início ao fim,Call Center,Investimento,4,2026-05-11
+143,Rafael Carvalho,"Experiência mediana, nada marcante",Agência,Cartão de Crédito,8,2026-05-11
+144,Vitória Novais,"Aplicativo travou várias vezes, muito ruim",Call Center,Cartão de Crédito,2,2026-05-11
+145,Dr. Thiago Lima,Impossível falar com um humano no suporte,Call Center,Empréstimo,4,2026-05-11
+146,Eduarda Souza,Fui bem atendido em todas as etapas,Internet Banking,Investimento,10,2026-05-11
+147,Joana Sá,"Taxa justa e transparente, recomendo",Agência,Empréstimo,10,2026-05-11
+148,Kamilly Vargas,App não funciona no meu celular há meses,Chat Online,Conta Corrente,2,2026-05-11
+149,Isabella da Mota,"O aplicativo é ok, poderia ser melhor",Internet Banking,Investimento,7,2026-05-11
+150,João Pedro da Costa,"O aplicativo é ok, poderia ser melhor",Call Center,Investimento,8,2026-05-11
+151,Dr. Vitor Hugo Barros,"Aplicativo travou várias vezes, muito ruim",Internet Banking,Investimento,2,2026-05-11
+152,Igor Gomes,"Serviço horrível, vou trocar de banco",Chat Online,Empréstimo,5,2026-05-11
+153,Srta. Ana Luiza Leão,Cumpriu o que prometeu,Call Center,Pix,8,2026-05-11
+154,Dr. Oliver Araújo,"Excelente suporte, problema resolvido em minutos",Agência,Empréstimo,10,2026-05-11
+155,Maria Julia Vargas,"Aplicativo funciona muito bem, fácil de usar",Agência,Conta Corrente,9,2026-05-11
+156,Srta. Maria Helena Mendes,Promessas não cumpridas pelo gerente,Internet Banking,Cartão de Crédito,5,2026-05-11
+157,Dr. Mathias Leão,Atendente muito educado e resolveu tudo,Chat Online,Pix,10,2026-05-11
+158,Dra. Ísis Pereira,"Nada de especial, mas funcionou",Agência,Cartão de Crédito,7,2026-05-11
+159,Hellena da Mata,"Resolução rápida do meu problema, fiquei satisfeito",Chat Online,Cartão de Crédito,9,2026-05-11
+160,Ana Gomes,"Atendimento excelente, muito rápido e eficiente",Internet Banking,Investimento,10,2026-05-11
+161,Maria Luiza Silveira,"Atendimento excelente, muito rápido e eficiente",Call Center,Investimento,10,2026-05-11
+162,Carolina Pinto,Demorou um pouco mas resolveu,Agência,Investimento,7,2026-05-11
+163,Matteo Pastor,"Aplicativo funciona muito bem, fácil de usar",Call Center,Conta Corrente,10,2026-05-11
+164,Amanda Barros,"Atendimento normal, dentro do esperado",Internet Banking,Pix,7,2026-05-11
+165,Catarina Martins,"Aplicativo travou várias vezes, muito ruim",App Mobile,Pix,1,2026-05-11
+166,José Pedro Garcia,Impossível falar com um humano no suporte,Chat Online,Cartão de Crédito,4,2026-05-11
+167,Rafael Duarte,Atendente grosseiro e sem paciência,Call Center,Empréstimo,3,2026-05-11
+168,Lara Sá,Atendente grosseiro e sem paciência,Chat Online,Pix,2,2026-05-11
+169,Bruno Melo,"Excelente suporte, problema resolvido em minutos",Internet Banking,Cartão de Crédito,9,2026-05-11
+170,Dra. Ana Júlia Ferreira,"Aplicativo funciona muito bem, fácil de usar",Internet Banking,Cartão de Crédito,9,2026-05-11
+171,Ana Lívia Vasconcelos,Demorou um pouco mas resolveu,Call Center,Investimento,7,2026-05-11
+172,Arthur da Cruz,Sistema fora do ar no momento mais importante,App Mobile,Cartão de Crédito,2,2026-05-11
+173,Eduardo da Costa,"Resolução rápida do meu problema, fiquei satisfeito",App Mobile,Cartão de Crédito,10,2026-05-11
+174,Bruna Nunes,Promessas não cumpridas pelo gerente,Chat Online,Cartão de Crédito,6,2026-05-11
+175,Jade Vargas,Cumpriu o que prometeu,Internet Banking,Empréstimo,7,2026-05-11
+176,Danilo Vasconcelos,"Aplicativo travou várias vezes, muito ruim",Internet Banking,Empréstimo,0,2026-05-11
+177,Cauê Pacheco,"Experiência mediana, nada marcante",Call Center,Conta Corrente,8,2026-05-11
+178,Marcos Vinicius Gonçalves,"Atendimento razoável, nem bom nem ruim",Agência,Pix,8,2026-05-11
+179,Joaquim Caldeira,"Serviço básico, sem surpresas",Chat Online,Conta Corrente,7,2026-05-11
+180,Bárbara Vieira,App não funciona no meu celular há meses,Chat Online,Empréstimo,2,2026-05-11
+181,Luiz Felipe Nascimento,Equipe super atenciosa e prestativa,Agência,Pix,9,2026-05-11
+182,Maria Eduarda Azevedo,"Taxa justa e transparente, recomendo",Call Center,Pix,9,2026-05-11
+183,Manuela Albuquerque,Experiência terrível do início ao fim,Internet Banking,Pix,2,2026-05-11
+184,Bianca Lopes,"Serviço básico, sem surpresas",Call Center,Empréstimo,7,2026-05-11
+185,Natália Santos,Processo burocrático mas concluído,Internet Banking,Empréstimo,7,2026-05-11
+186,Emanuelly Siqueira,"Serviço básico, sem surpresas",Call Center,Pix,8,2026-05-11
+187,Júlia Pimenta,"Aplicativo funciona muito bem, fácil de usar",Agência,Empréstimo,10,2026-05-11
+188,Nina Lopes,"Taxa justa e transparente, recomendo",Chat Online,Conta Corrente,10,2026-05-11
+189,Lorenzo da Cruz,Transferência falhou e o dinheiro sumiu,Call Center,Conta Corrente,3,2026-05-11
+190,Rael da Cruz,"O banco melhorou muito, estou impressionado",Call Center,Conta Corrente,10,2026-05-11
+191,Maria Helena Fernandes,App atualizado ficou muito melhor,Agência,Investimento,9,2026-05-11
+192,Lunna Cirino,Sistema fora do ar no momento mais importante,App Mobile,Pix,0,2026-05-11
+193,Luiz Gustavo da Luz,App não funciona no meu celular há meses,Agência,Pix,1,2026-05-11
+194,João Guilherme Novais,"Crédito aprovado rapidamente, processo simples",Internet Banking,Conta Corrente,9,2026-05-11
+195,Esther Barros,"Nada de especial, mas funcionou",Call Center,Empréstimo,7,2026-05-11
+196,Sra. Rebeca Novais,"Atendimento razoável, nem bom nem ruim",Call Center,Investimento,8,2026-05-11
+197,Sra. Rebeca Machado,App atualizado ficou muito melhor,Call Center,Cartão de Crédito,9,2026-05-11
+198,Juan Câmara,Transferência falhou e o dinheiro sumiu,Internet Banking,Conta Corrente,5,2026-05-11
+199,Srta. Lorena Ribeiro,"Taxa justa e transparente, recomendo",Agência,Pix,10,2026-05-11
+200,Dr. Yuri Moura,"Atendimento excelente, muito rápido e eficiente",Agência,Pix,10,2026-05-11
+201,Luísa Fogaça,"Serviço básico, sem surpresas",Call Center,Pix,7,2026-05-11
+202,Leandro da Cunha,Processo burocrático mas concluído,Call Center,Empréstimo,8,2026-05-11
+203,Gael Dias,App não funciona no meu celular há meses,Chat Online,Investimento,1,2026-05-11
+204,Dra. Ester Correia,"Taxa justa e transparente, recomendo",App Mobile,Empréstimo,10,2026-05-11
+205,Sra. Kamilly Silveira,App não funciona no meu celular há meses,Call Center,Investimento,6,2026-05-11
+206,Larissa Brito,Promessas não cumpridas pelo gerente,Internet Banking,Investimento,6,2026-05-11
+207,Ian Fonseca,"Cobrança indevida na minha conta, absurdo",Chat Online,Empréstimo,4,2026-05-11
+208,Anthony Gabriel Santos,Juros altíssimos sem comunicação prévia,Call Center,Conta Corrente,6,2026-05-11
+209,João Guilherme Aparecida,"Serviço básico, sem surpresas",Internet Banking,Investimento,7,2026-05-11
+210,Lavínia Sampaio,"Cobrança indevida na minha conta, absurdo",Call Center,Empréstimo,0,2026-05-11
+211,Rebeca Caldeira,"Excelente suporte, problema resolvido em minutos",App Mobile,Empréstimo,10,2026-05-11
+212,Larissa Melo,Juros altíssimos sem comunicação prévia,Call Center,Empréstimo,4,2026-05-11
+213,Manuela Cirino,Experiência terrível do início ao fim,Call Center,Pix,6,2026-05-11
+214,Rhavi Camargo,"Aplicativo funciona muito bem, fácil de usar",Agência,Cartão de Crédito,9,2026-05-11
+215,Rebeca Barbosa,Atendente grosseiro e sem paciência,App Mobile,Investimento,0,2026-05-11
+216,Ana Júlia Cassiano,"Resolução rápida do meu problema, fiquei satisfeito",App Mobile,Empréstimo,9,2026-05-11
+217,Liz Barros,"Serviço horrível, vou trocar de banco",Agência,Investimento,2,2026-05-11
+218,Oliver Pereira,App atualizado ficou muito melhor,Chat Online,Cartão de Crédito,10,2026-05-11
+219,Heloisa Vasconcelos,"Aplicativo funciona muito bem, fácil de usar",Chat Online,Cartão de Crédito,10,2026-05-11
+220,Milena Macedo,"Experiência mediana, nada marcante",Internet Banking,Investimento,7,2026-05-11
+221,Mariane das Neves,Sistema fora do ar no momento mais importante,App Mobile,Investimento,2,2026-05-11
+222,Ana Liz Pimenta,Cancelei o cartão e continuaram cobrando,Internet Banking,Conta Corrente,4,2026-05-11
+223,Heitor da Luz,Processo burocrático mas concluído,Call Center,Empréstimo,8,2026-05-11
+224,Isaque Cavalcanti,"Atendimento razoável, nem bom nem ruim",Call Center,Investimento,7,2026-05-11
+225,Emanuel Abreu,"Crédito aprovado rapidamente, processo simples",Chat Online,Empréstimo,10,2026-05-11
+226,Olivia da Rocha,"Serviço horrível, vou trocar de banco",Call Center,Empréstimo,0,2026-05-11
+227,João Pedro Santos,Fui bem atendido em todas as etapas,Chat Online,Investimento,9,2026-05-11
+228,Sra. Ana Sophia Rodrigues,Experiência terrível do início ao fim,Internet Banking,Pix,2,2026-05-11
+229,Gael Henrique Lima,Ninguém resolve meu problema faz semanas,Internet Banking,Pix,5,2026-05-11
+230,Heloisa Ramos,"Taxa justa e transparente, recomendo",App Mobile,Conta Corrente,9,2026-05-11
+231,Diego Barbosa,Atendente muito educado e resolveu tudo,Chat Online,Empréstimo,9,2026-05-11
+232,Leandro Peixoto,"Aplicativo travou várias vezes, muito ruim",Agência,Investimento,2,2026-05-11
+233,Pedro Lucas Campos,"Transferência realizada sem problemas, ótimo serviço",Chat Online,Pix,10,2026-05-11
+234,Sra. Maria Luiza da Mata,Juros altíssimos sem comunicação prévia,Agência,Investimento,1,2026-05-11
+235,Sabrina Macedo,"Serviço horrível, vou trocar de banco",Agência,Conta Corrente,5,2026-05-11
+236,Ana Cecília Lopes,"Nada de especial, mas funcionou",Internet Banking,Investimento,7,2026-05-11
+237,Isis Alves,Promessas não cumpridas pelo gerente,Agência,Conta Corrente,4,2026-05-11
+238,Antônio Teixeira,"Péssimo atendimento, fiquei horas esperando",Chat Online,Conta Corrente,2,2026-05-11
+239,Ana Cecília Teixeira,"Atendimento razoável, nem bom nem ruim",Agência,Conta Corrente,8,2026-05-11
+240,Stella Rezende,Sistema fora do ar no momento mais importante,Chat Online,Pix,0,2026-05-11
+241,Fernando Pacheco,"Sem filas, atendimento ágil e eficaz",App Mobile,Investimento,9,2026-05-11
+242,Rebeca Borges,"Serviço horrível, vou trocar de banco",Call Center,Conta Corrente,5,2026-05-11
+243,Dr. Lucas Gabriel Duarte,"Atendimento excelente, muito rápido e eficiente",Call Center,Conta Corrente,10,2026-05-11
+244,Lucas Jesus,"Serviço digital de qualidade, parabéns",Call Center,Investimento,9,2026-05-11
+245,Murilo Teixeira,"Excelente suporte, problema resolvido em minutos",Chat Online,Cartão de Crédito,10,2026-05-11
+246,Rafael Borges,Cancelei o cartão e continuaram cobrando,Call Center,Pix,0,2026-05-11
+247,Lorenzo Camargo,"Atendimento razoável, nem bom nem ruim",Agência,Cartão de Crédito,7,2026-05-11
+248,Agatha Ribeiro,"O aplicativo é ok, poderia ser melhor",App Mobile,Empréstimo,8,2026-05-11
+249,Maria Sophia Aragão,Processo burocrático mas concluído,Call Center,Empréstimo,7,2026-05-11
+250,Maria Cecília Pinto,"Aplicativo funciona muito bem, fácil de usar",App Mobile,Cartão de Crédito,10,2026-05-11
+251,Melina Teixeira,Impossível falar com um humano no suporte,App Mobile,Empréstimo,0,2026-05-11
+252,João Felipe Novaes,"Transferência realizada sem problemas, ótimo serviço",App Mobile,Pix,9,2026-05-11
+253,Pedro Lucas Sampaio,Equipe super atenciosa e prestativa,Agência,Cartão de Crédito,9,2026-05-11
+254,Arthur Pires,Impossível falar com um humano no suporte,Agência,Cartão de Crédito,0,2026-05-11
+255,Emanuel das Neves,Transferência falhou e o dinheiro sumiu,Internet Banking,Conta Corrente,2,2026-05-11
+256,Yuri Jesus,"Péssimo atendimento, fiquei horas esperando",App Mobile,Empréstimo,1,2026-05-11
+257,Danilo Martins,Ninguém resolve meu problema faz semanas,Agência,Conta Corrente,4,2026-05-11
+258,Daniela Monteiro,"Atendimento excelente, muito rápido e eficiente",Call Center,Pix,9,2026-05-11
+259,Júlia Leão,"Aplicativo funciona muito bem, fácil de usar",Call Center,Empréstimo,10,2026-05-11
+260,Isabelly Marques,"Nada de especial, mas funcionou",Chat Online,Cartão de Crédito,8,2026-05-11
+261,Matheus Correia,"Péssimo atendimento, fiquei horas esperando",Chat Online,Empréstimo,5,2026-05-11
+262,Catarina Azevedo,"Atendimento normal, dentro do esperado",Call Center,Investimento,7,2026-05-11
+263,Manuela Viana,"Nada de especial, mas funcionou",Call Center,Conta Corrente,8,2026-05-11
+264,Alexandre da Paz,Taxa abusiva sem nenhuma explicação,Internet Banking,Conta Corrente,4,2026-05-11
+265,Rebeca Cassiano,"Sem filas, atendimento ágil e eficaz",Call Center,Pix,10,2026-05-11
+266,Rafaela Ferreira,"Serviço básico, sem surpresas",App Mobile,Conta Corrente,8,2026-05-11
+267,Ísis Garcia,Cancelei o cartão e continuaram cobrando,Chat Online,Cartão de Crédito,6,2026-05-11
+268,Sr. Isaque Oliveira,"O aplicativo é ok, poderia ser melhor",Agência,Investimento,8,2026-05-11
+269,Noah Aparecida,"Excelente suporte, problema resolvido em minutos",Agência,Investimento,9,2026-05-11
+270,Sra. Maria Helena Gomes,"Resolução rápida do meu problema, fiquei satisfeito",Internet Banking,Investimento,10,2026-05-11
+271,Thales Andrade,Fui bem atendido em todas as etapas,App Mobile,Investimento,9,2026-05-11
+272,Luísa Brito,"Excelente suporte, problema resolvido em minutos",Internet Banking,Pix,10,2026-05-11
+273,Vinicius Marques,App atualizado ficou muito melhor,App Mobile,Investimento,10,2026-05-11
+274,Srta. Maria Luísa Rezende,Gostei muito do novo sistema de pagamentos,App Mobile,Empréstimo,10,2026-05-11
+275,Ravy Viana,Taxa abusiva sem nenhuma explicação,Chat Online,Pix,0,2026-05-11
+276,Dr. Bruno Farias,Gostei muito do novo sistema de pagamentos,Internet Banking,Conta Corrente,10,2026-05-11
+277,Luiza Pires,App atualizado ficou muito melhor,App Mobile,Empréstimo,10,2026-05-11
+278,Ana Carolina Pinto,Esperei bastante mas fui atendido,Chat Online,Empréstimo,7,2026-05-11
+279,João Pedro da Conceição,"Resolução rápida do meu problema, fiquei satisfeito",Agência,Empréstimo,10,2026-05-11
+280,Beatriz Teixeira,Fui bem atendido em todas as etapas,Chat Online,Investimento,9,2026-05-11
+281,Srta. Melina Cavalcante,"Excelente suporte, problema resolvido em minutos",App Mobile,Pix,9,2026-05-11
+282,Augusto Duarte,"Crédito aprovado rapidamente, processo simples",Agência,Cartão de Crédito,10,2026-05-11
+283,Luiz Henrique Freitas,"Excelente suporte, problema resolvido em minutos",Chat Online,Pix,10,2026-05-11
+284,Joaquim Moura,"Atendimento excelente, muito rápido e eficiente",Internet Banking,Pix,9,2026-05-11
+285,Emilly Cavalcante,"Aplicativo funciona muito bem, fácil de usar",Call Center,Investimento,10,2026-05-11
+286,Mateus Pinto,"Serviço básico, sem surpresas",Agência,Cartão de Crédito,8,2026-05-11
+287,Cecília da Conceição,"Aplicativo travou várias vezes, muito ruim",Call Center,Conta Corrente,2,2026-05-11
+288,Jade Marques,Gostei muito do novo sistema de pagamentos,Chat Online,Empréstimo,10,2026-05-11
+289,Alexia Martins,"Crédito aprovado rapidamente, processo simples",App Mobile,Cartão de Crédito,9,2026-05-11
+290,Ísis Castro,Equipe super atenciosa e prestativa,Agência,Empréstimo,9,2026-05-11
+291,Manuella Pastor,"Atendimento excelente, muito rápido e eficiente",Call Center,Cartão de Crédito,10,2026-05-11
+292,Mariana Sales,App atualizado ficou muito melhor,Chat Online,Pix,9,2026-05-11
+293,Liz Costa,Promessas não cumpridas pelo gerente,App Mobile,Investimento,2,2026-05-11
+294,Bianca da Costa,"Péssimo atendimento, fiquei horas esperando",App Mobile,Investimento,3,2026-05-11
+295,Maria Alice Oliveira,Juros altíssimos sem comunicação prévia,Chat Online,Investimento,2,2026-05-11
+296,Sra. Alícia Ribeiro,Esperei bastante mas fui atendido,App Mobile,Investimento,8,2026-05-11
+297,Anthony Nunes,"O banco melhorou muito, estou impressionado",Chat Online,Investimento,9,2026-05-11
+298,Sara da Paz,Experiência terrível do início ao fim,App Mobile,Investimento,2,2026-05-11
+299,Maria Câmara,Ninguém resolve meu problema faz semanas,Chat Online,Investimento,3,2026-05-11
+300,José Rocha,Esperei bastante mas fui atendido,Agência,Cartão de Crédito,8,2026-05-12
+301,Cecilia Pires,"Transferência realizada sem problemas, ótimo serviço",Chat Online,Conta Corrente,9,2026-05-11
+302,Ana Cecília das Neves,"O aplicativo é ok, poderia ser melhor",Agência,Cartão de Crédito,8,2026-05-11
+303,Luiz Otávio Siqueira,"Transferência realizada sem problemas, ótimo serviço",Internet Banking,Cartão de Crédito,10,2026-05-11
+304,Juan Duarte,Promessas não cumpridas pelo gerente,App Mobile,Cartão de Crédito,6,2026-05-11
+305,Guilherme Cardoso,Cancelei o cartão e continuaram cobrando,Call Center,Pix,3,2026-05-11
+306,Dr. Enzo da Cunha,Sistema fora do ar no momento mais importante,Chat Online,Pix,5,2026-05-11
+307,Lucca Camargo,Gostei muito do novo sistema de pagamentos,Internet Banking,Investimento,10,2026-05-11
+308,Diego Sá,Atendente muito educado e resolveu tudo,Agência,Pix,10,2026-05-11
+309,Maria Laura Novais,App atualizado ficou muito melhor,Agência,Investimento,9,2026-05-11
+310,Miguel Albuquerque,"Atendimento normal, dentro do esperado",Agência,Conta Corrente,8,2026-05-11
+311,Camila Marques,Juros altíssimos sem comunicação prévia,Chat Online,Pix,0,2026-05-11
+312,Julia Pacheco,"Serviço básico, sem surpresas",Call Center,Pix,7,2026-05-11
+313,Maria Fernanda Caldeira,Taxa abusiva sem nenhuma explicação,Call Center,Pix,4,2026-05-11
+314,Amanda Pinto,"Atendimento excelente, muito rápido e eficiente",App Mobile,Empréstimo,10,2026-05-11
+315,Sr. Benício Porto,"Aplicativo travou várias vezes, muito ruim",Internet Banking,Conta Corrente,4,2026-05-11
+316,Sra. Maria Luísa Camargo,Atendente muito educado e resolveu tudo,Chat Online,Pix,10,2026-05-11
+317,Arthur Miguel da Rosa,Taxa abusiva sem nenhuma explicação,Agência,Investimento,2,2026-05-11
+318,Calebe da Costa,Processo burocrático mas concluído,Agência,Conta Corrente,7,2026-05-11
+319,Mathias Marques,App atualizado ficou muito melhor,Agência,Empréstimo,10,2026-05-11
+320,Ágatha Leão,Cancelei o cartão e continuaram cobrando,Internet Banking,Empréstimo,4,2026-05-11
+321,Dra. Daniela Leão,Gostei muito do novo sistema de pagamentos,Agência,Empréstimo,9,2026-05-11
+322,Samuel Pimenta,App não funciona no meu celular há meses,Call Center,Cartão de Crédito,5,2026-05-11
+323,Arthur Gabriel Sales,"Nada de especial, mas funcionou",Chat Online,Investimento,8,2026-05-11
+324,Pedro Miguel Macedo,Taxa abusiva sem nenhuma explicação,Internet Banking,Pix,6,2026-05-11
+325,Sr. Léo Nogueira,Gostei muito do novo sistema de pagamentos,Chat Online,Empréstimo,10,2026-05-11
+326,Sr. Miguel da Mota,"Resolução rápida do meu problema, fiquei satisfeito",Internet Banking,Empréstimo,9,2026-05-11
+327,Rafael Borges,Sistema fora do ar no momento mais importante,Internet Banking,Cartão de Crédito,1,2026-05-11
+328,Alícia Aragão,"Resolução rápida do meu problema, fiquei satisfeito",Chat Online,Pix,9,2026-05-11
+329,Davi Lucas Viana,Experiência terrível do início ao fim,App Mobile,Empréstimo,4,2026-05-11
+330,Bernardo Teixeira,Impossível falar com um humano no suporte,Chat Online,Investimento,1,2026-05-11
+331,Henrique da Conceição,"Transferência realizada sem problemas, ótimo serviço",Call Center,Conta Corrente,9,2026-05-11
+332,Alexandre da Mota,"O aplicativo é ok, poderia ser melhor",Chat Online,Empréstimo,8,2026-05-11
+333,Vitor Hugo da Cunha,Promessas não cumpridas pelo gerente,Internet Banking,Pix,3,2026-05-11
+334,Apollo Cardoso,"Taxa justa e transparente, recomendo",Internet Banking,Empréstimo,10,2026-05-11
+335,Sr. Lorenzo Almeida,Impossível falar com um humano no suporte,Call Center,Empréstimo,3,2026-05-11
+336,Benjamim Cardoso,Transferência falhou e o dinheiro sumiu,Call Center,Cartão de Crédito,4,2026-05-11
+337,Bruna Souza,Promessas não cumpridas pelo gerente,Internet Banking,Empréstimo,4,2026-05-11
+338,Melissa Vasconcelos,Atendente muito educado e resolveu tudo,Chat Online,Conta Corrente,10,2026-05-11
+339,Bianca Machado,Transferência falhou e o dinheiro sumiu,App Mobile,Empréstimo,6,2026-05-11
+340,Augusto Siqueira,"Transferência realizada sem problemas, ótimo serviço",Call Center,Pix,10,2026-05-11
+341,Liz Marques,"Crédito aprovado rapidamente, processo simples",Internet Banking,Investimento,9,2026-05-11
+342,Bento Mendes,Experiência terrível do início ao fim,Call Center,Conta Corrente,0,2026-05-11
+343,Bianca Mendonça,"O banco melhorou muito, estou impressionado",Call Center,Conta Corrente,9,2026-05-11
+344,Bruno Duarte,"Atendimento excelente, muito rápido e eficiente",App Mobile,Empréstimo,10,2026-05-11
+345,Benício Cardoso,"Cobrança indevida na minha conta, absurdo",Agência,Investimento,0,2026-05-11
+346,Lunna Garcia,"Cobrança indevida na minha conta, absurdo",Call Center,Investimento,6,2026-05-11
+347,Laís Marques,Experiência terrível do início ao fim,App Mobile,Empréstimo,0,2026-05-11
+348,Marina Brito,"Transferência realizada sem problemas, ótimo serviço",App Mobile,Empréstimo,10,2026-05-11
+349,Helena Lopes,"Aplicativo funciona muito bem, fácil de usar",Internet Banking,Investimento,9,2026-05-11
+350,Noah Fernandes,Impossível falar com um humano no suporte,App Mobile,Conta Corrente,3,2026-05-11
+351,Maria Vitória Siqueira,Sistema fora do ar no momento mais importante,Chat Online,Conta Corrente,4,2026-05-11
+352,Dr. Levi Rios,Impossível falar com um humano no suporte,Internet Banking,Empréstimo,1,2026-05-11
+353,Sr. Renan Azevedo,"Experiência mediana, nada marcante",Internet Banking,Pix,8,2026-05-11
+354,Caleb Lopes,"Nada de especial, mas funcionou",App Mobile,Pix,8,2026-05-11
+355,Dra. Maria Fernanda Cardoso,Cumpriu o que prometeu,Call Center,Investimento,7,2026-05-11
+356,Lucas Rios,"Crédito aprovado rapidamente, processo simples",Agência,Conta Corrente,10,2026-05-11
+357,Maria Rios,"Aplicativo funciona muito bem, fácil de usar",Internet Banking,Conta Corrente,10,2026-05-11
+358,Srta. Laura Peixoto,App não funciona no meu celular há meses,Agência,Cartão de Crédito,6,2026-05-11
+359,Sr. Thiago Cunha,App atualizado ficou muito melhor,Internet Banking,Investimento,10,2026-05-11
+360,Rafaela Câmara,Sistema fora do ar no momento mais importante,Internet Banking,Cartão de Crédito,5,2026-05-11
+361,Dr. Danilo Teixeira,"Taxa justa e transparente, recomendo",App Mobile,Empréstimo,10,2026-05-11
+362,Heloisa Lima,"Taxa justa e transparente, recomendo",App Mobile,Empréstimo,9,2026-05-11
+363,Amanda Pereira,Transferência falhou e o dinheiro sumiu,Chat Online,Investimento,3,2026-05-11
+364,Sra. Ana Cirino,"Taxa justa e transparente, recomendo",Agência,Empréstimo,9,2026-05-11
+365,Sra. Maitê Ferreira,"Péssimo atendimento, fiquei horas esperando",Agência,Empréstimo,6,2026-05-11
+366,Diego Nunes,"O banco melhorou muito, estou impressionado",Call Center,Investimento,10,2026-05-11
+367,Ana Lívia Casa Grande,Atendente grosseiro e sem paciência,Internet Banking,Investimento,2,2026-05-11
+368,Caleb Souza,Taxa abusiva sem nenhuma explicação,Chat Online,Empréstimo,6,2026-05-11
+369,Marcos Vinicius Leão,App não funciona no meu celular há meses,App Mobile,Investimento,3,2026-05-11
+370,Sr. Léo das Neves,Juros altíssimos sem comunicação prévia,Chat Online,Empréstimo,1,2026-05-11
+371,Antonella Aragão,"Aplicativo funciona muito bem, fácil de usar",Agência,Empréstimo,10,2026-05-11
+372,Benicio Rocha,Esperei bastante mas fui atendido,Call Center,Empréstimo,7,2026-05-11
+373,Pedro Miguel Ribeiro,Processo burocrático mas concluído,Agência,Conta Corrente,8,2026-05-11
+374,Melina Leão,Gostei muito do novo sistema de pagamentos,Agência,Pix,10,2026-05-11
+375,Théo Camargo,Cancelei o cartão e continuaram cobrando,App Mobile,Cartão de Crédito,1,2026-05-11
+376,Brenda da Paz,Cancelei o cartão e continuaram cobrando,Call Center,Conta Corrente,6,2026-05-11
+377,Valentina Rios,Equipe super atenciosa e prestativa,Agência,Investimento,10,2026-05-11
+378,Henry Gonçalves,"Péssimo atendimento, fiquei horas esperando",Internet Banking,Investimento,4,2026-05-11
+379,André Costela,Taxa abusiva sem nenhuma explicação,App Mobile,Pix,3,2026-05-11
+380,Davi Miguel Teixeira,"O banco melhorou muito, estou impressionado",Agência,Empréstimo,10,2026-05-11
+381,Luan Campos,"Aplicativo funciona muito bem, fácil de usar",Internet Banking,Investimento,9,2026-05-11
+382,Marina Cavalcanti,Cumpriu o que prometeu,Agência,Empréstimo,7,2026-05-11
+383,Yasmin Santos,Ninguém resolve meu problema faz semanas,Agência,Investimento,4,2026-05-11
+384,Maria Barbosa,"Transferência realizada sem problemas, ótimo serviço",Call Center,Cartão de Crédito,9,2026-05-11
+385,Srta. Maya Almeida,Sistema fora do ar no momento mais importante,Agência,Empréstimo,0,2026-05-11
+386,Levi Oliveira,Transferência falhou e o dinheiro sumiu,Agência,Empréstimo,4,2026-05-11
+387,Maria Luiza Santos,App não funciona no meu celular há meses,Internet Banking,Empréstimo,5,2026-05-11
+388,Lavínia Camargo,"Nada de especial, mas funcionou",Internet Banking,Cartão de Crédito,7,2026-05-11
+389,Luan Cavalcante,"Péssimo atendimento, fiquei horas esperando",Chat Online,Pix,2,2026-05-11
+390,Maria Cecília Borges,"Taxa justa e transparente, recomendo",Chat Online,Conta Corrente,9,2026-05-11
+391,Joaquim Lopes,"Crédito aprovado rapidamente, processo simples",Chat Online,Investimento,10,2026-05-11
+392,Valentina Barros,Juros altíssimos sem comunicação prévia,App Mobile,Cartão de Crédito,4,2026-05-11
+393,Lucca Câmara,Cancelei o cartão e continuaram cobrando,Call Center,Investimento,0,2026-05-11
+394,Breno Moraes,Taxa abusiva sem nenhuma explicação,Chat Online,Pix,1,2026-05-11
+395,Vinícius Moraes,"Transferência realizada sem problemas, ótimo serviço",Chat Online,Conta Corrente,10,2026-05-11
+396,Dr. Diogo da Costa,Transferência falhou e o dinheiro sumiu,Agência,Cartão de Crédito,1,2026-05-11
+397,José Miguel Costa,"Serviço digital de qualidade, parabéns",Agência,Pix,9,2026-05-11
+398,Daniela Teixeira,Juros altíssimos sem comunicação prévia,Agência,Cartão de Crédito,0,2026-05-11
+399,Felipe Vargas,Transferência falhou e o dinheiro sumiu,Internet Banking,Empréstimo,2,2026-05-11
+400,Nicole Sá,"Aplicativo travou várias vezes, muito ruim",Internet Banking,Pix,4,2026-05-11
+401,Melissa Rodrigues,"Cobrança indevida na minha conta, absurdo",Chat Online,Pix,1,2026-05-11
+402,Luna Pires,"Serviço digital de qualidade, parabéns",App Mobile,Conta Corrente,9,2026-05-11
+403,Pedro Lucas Azevedo,Gostei muito do novo sistema de pagamentos,Internet Banking,Pix,10,2026-05-11
+404,Liz Vieira,"Atendimento normal, dentro do esperado",Chat Online,Empréstimo,8,2026-05-11
+405,Ana Laura Fogaça,"Serviço horrível, vou trocar de banco",Internet Banking,Investimento,3,2026-05-11
+406,Leonardo Martins,"Aplicativo funciona muito bem, fácil de usar",Internet Banking,Investimento,9,2026-05-11
+407,Benjamin Freitas,"Serviço básico, sem surpresas",Agência,Pix,7,2026-05-11
+408,Caleb Pimenta,Fui bem atendido em todas as etapas,Agência,Investimento,10,2026-05-11
+409,Maria Isis Martins,"O banco melhorou muito, estou impressionado",Agência,Cartão de Crédito,9,2026-05-11
+410,Ana Cecília Machado,"Atendimento razoável, nem bom nem ruim",Internet Banking,Cartão de Crédito,8,2026-05-11
+411,Esther Duarte,"Resolução rápida do meu problema, fiquei satisfeito",Chat Online,Investimento,10,2026-05-11
+412,Sarah Cassiano,Fui bem atendido em todas as etapas,Agência,Pix,9,2026-05-11
+413,Bella Fernandes,Ninguém resolve meu problema faz semanas,Internet Banking,Investimento,6,2026-05-11
+414,Emanuella Aparecida,Sistema fora do ar no momento mais importante,Agência,Investimento,3,2026-05-11
+415,Sra. Maysa Moura,"Crédito aprovado rapidamente, processo simples",Internet Banking,Cartão de Crédito,10,2026-05-11
+416,Eduarda Fonseca,"Atendimento normal, dentro do esperado",Agência,Investimento,7,2026-05-11
+417,Mathias Jesus,"Serviço básico, sem surpresas",Chat Online,Conta Corrente,8,2026-05-11
+418,Ana Júlia Vieira,Atendente grosseiro e sem paciência,Agência,Empréstimo,1,2026-05-11
+419,Lívia Azevedo,Taxa abusiva sem nenhuma explicação,Call Center,Conta Corrente,0,2026-05-11
+420,Matheus da Paz,"O aplicativo é ok, poderia ser melhor",Chat Online,Empréstimo,8,2026-05-11
+421,Dra. Clarice Farias,App atualizado ficou muito melhor,Chat Online,Empréstimo,10,2026-05-11
+422,Cecília Ferreira,Impossível falar com um humano no suporte,Chat Online,Conta Corrente,5,2026-05-11
+423,Maria Júlia Cardoso,"Aplicativo funciona muito bem, fácil de usar",Agência,Empréstimo,10,2026-05-11
+424,Srta. Luana Novais,Processo burocrático mas concluído,Internet Banking,Pix,7,2026-05-11
+425,Luísa Cardoso,Cumpriu o que prometeu,App Mobile,Conta Corrente,7,2026-05-11
+426,Otávio Moraes,"O banco melhorou muito, estou impressionado",Chat Online,Investimento,10,2026-05-11
+427,Luiz Miguel das Neves,"Serviço digital de qualidade, parabéns",Agência,Pix,9,2026-05-11
+428,Luigi Vargas,"Crédito aprovado rapidamente, processo simples",Chat Online,Empréstimo,10,2026-05-11
+429,Henry Gabriel Carvalho,Cumpriu o que prometeu,Chat Online,Empréstimo,8,2026-05-11
+430,Juan Viana,"Atendimento normal, dentro do esperado",Agência,Conta Corrente,8,2026-05-11
+431,Ágatha Sousa,Impossível falar com um humano no suporte,App Mobile,Pix,2,2026-05-11
+432,Lucca Vargas,"Experiência mediana, nada marcante",App Mobile,Pix,7,2026-05-11
+433,Marcos Vinicius Cassiano,Cumpriu o que prometeu,Internet Banking,Cartão de Crédito,8,2026-05-11
+434,Enzo Silveira,"Excelente suporte, problema resolvido em minutos",Internet Banking,Conta Corrente,9,2026-05-11
+435,Noah Fonseca,Esperei bastante mas fui atendido,Call Center,Cartão de Crédito,7,2026-05-11
+436,Larissa Sá,"Experiência mediana, nada marcante",App Mobile,Cartão de Crédito,8,2026-05-11
+437,Vitor da Costa,Cumpriu o que prometeu,Call Center,Pix,8,2026-05-11
+438,Evelyn Freitas,"Transferência realizada sem problemas, ótimo serviço",Chat Online,Empréstimo,10,2026-05-11
+439,Nicole Vargas,"Atendimento razoável, nem bom nem ruim",Internet Banking,Cartão de Crédito,8,2026-05-11
+440,Sarah Moura,"Resolução rápida do meu problema, fiquei satisfeito",Agência,Empréstimo,9,2026-05-11
+441,Guilherme Pereira,App não funciona no meu celular há meses,Call Center,Empréstimo,5,2026-05-11
+442,Benjamim Ramos,Cumpriu o que prometeu,Agência,Conta Corrente,8,2026-05-11
+443,Sr. Valentim Campos,Cumpriu o que prometeu,Call Center,Empréstimo,8,2026-05-11
+444,Enrico da Mata,Promessas não cumpridas pelo gerente,Agência,Conta Corrente,1,2026-05-11
+445,Clara Lopes,"Excelente suporte, problema resolvido em minutos",Agência,Investimento,9,2026-05-11
+446,Rael Ferreira,App não funciona no meu celular há meses,Internet Banking,Cartão de Crédito,3,2026-05-11
+447,Ana Júlia Gonçalves,"Serviço horrível, vou trocar de banco",Agência,Cartão de Crédito,4,2026-05-11
+448,Sr. Matheus Barros,"Excelente suporte, problema resolvido em minutos",Internet Banking,Conta Corrente,9,2026-05-11
+449,Arthur Dias,Transferência falhou e o dinheiro sumiu,Internet Banking,Conta Corrente,1,2026-05-11
+450,Dra. Lívia Vieira,"O banco melhorou muito, estou impressionado",App Mobile,Cartão de Crédito,10,2026-05-11
+451,Arthur Miguel da Paz,App atualizado ficou muito melhor,Call Center,Investimento,9,2026-05-11
+452,Srta. Olivia Machado,"O aplicativo é ok, poderia ser melhor",Agência,Empréstimo,8,2026-05-11
+453,Bruno Almeida,Experiência terrível do início ao fim,App Mobile,Pix,6,2026-05-11
+454,Dom Novaes,"Excelente suporte, problema resolvido em minutos",Internet Banking,Investimento,9,2026-05-11
+455,Mariana Camargo,"Cobrança indevida na minha conta, absurdo",Call Center,Investimento,0,2026-05-11
+456,Kevin Campos,"Excelente suporte, problema resolvido em minutos",App Mobile,Conta Corrente,10,2026-05-11
+457,Otto Porto,"Sem filas, atendimento ágil e eficaz",Agência,Empréstimo,9,2026-05-11
+458,Ana Luiza Camargo,Cumpriu o que prometeu,Internet Banking,Pix,8,2026-05-11
+459,Zoe Almeida,"O aplicativo é ok, poderia ser melhor",Agência,Cartão de Crédito,7,2026-05-11
+460,Isabella Silva,Cancelei o cartão e continuaram cobrando,Internet Banking,Conta Corrente,2,2026-05-11
+461,Paulo Abreu,Promessas não cumpridas pelo gerente,Chat Online,Cartão de Crédito,2,2026-05-11
+462,Sr. Oliver Cirino,Fui bem atendido em todas as etapas,Call Center,Pix,10,2026-05-11
+463,Maria Cecília Azevedo,"Crédito aprovado rapidamente, processo simples",Internet Banking,Cartão de Crédito,9,2026-05-11
+464,Sofia Viana,"O aplicativo é ok, poderia ser melhor",Agência,Investimento,7,2026-05-11
+465,Alícia Gomes,"Taxa justa e transparente, recomendo",Agência,Empréstimo,10,2026-05-11
+466,Mathias Freitas,"Experiência mediana, nada marcante",Agência,Empréstimo,7,2026-05-11
+467,Srta. Maria Alice Viana,"Péssimo atendimento, fiquei horas esperando",App Mobile,Investimento,5,2026-05-11
+468,Sr. Cauã Vargas,"Crédito aprovado rapidamente, processo simples",App Mobile,Empréstimo,10,2026-05-11
+469,Sra. Catarina Aparecida,Equipe super atenciosa e prestativa,Internet Banking,Investimento,9,2026-05-11
+470,Maitê Ramos,"Excelente suporte, problema resolvido em minutos",Call Center,Pix,10,2026-05-11
+471,Nicole Sampaio,Promessas não cumpridas pelo gerente,Internet Banking,Cartão de Crédito,4,2026-05-11
+472,Emilly Carvalho,Impossível falar com um humano no suporte,App Mobile,Pix,6,2026-05-11
+473,Sra. Ana Carolina da Rocha,Processo burocrático mas concluído,Chat Online,Conta Corrente,7,2026-05-11
+474,Guilherme Aparecida,App atualizado ficou muito melhor,Chat Online,Pix,9,2026-05-11
+475,Théo Gonçalves,"O banco melhorou muito, estou impressionado",App Mobile,Cartão de Crédito,10,2026-05-11
+476,Isis Andrade,Sistema fora do ar no momento mais importante,Chat Online,Investimento,0,2026-05-11
+477,João Pedro Fogaça,Sistema fora do ar no momento mais importante,Chat Online,Investimento,1,2026-05-11
+478,Luísa da Mata,"Atendimento normal, dentro do esperado",Agência,Conta Corrente,8,2026-05-11
+479,Dr. Murilo Souza,Fui bem atendido em todas as etapas,Internet Banking,Pix,9,2026-05-11
+480,Maitê Cirino,"Crédito aprovado rapidamente, processo simples",App Mobile,Pix,10,2026-05-11
+481,Sra. Maria Eduarda Moreira,Experiência terrível do início ao fim,Call Center,Conta Corrente,0,2026-05-11
+482,Otávio Barros,"Transferência realizada sem problemas, ótimo serviço",Call Center,Empréstimo,9,2026-05-11
+483,Emilly Nogueira,Atendente grosseiro e sem paciência,Call Center,Investimento,3,2026-05-11
+484,Sr. Bruno Duarte,Gostei muito do novo sistema de pagamentos,Agência,Conta Corrente,9,2026-05-11
+485,Pietro Pereira,App atualizado ficou muito melhor,Chat Online,Cartão de Crédito,10,2026-05-11
+486,Pedro Miguel Ferreira,Ninguém resolve meu problema faz semanas,App Mobile,Conta Corrente,6,2026-05-11
+487,Luiz Gustavo Pimenta,Sistema fora do ar no momento mais importante,Chat Online,Investimento,5,2026-05-11
+488,Benjamin Barbosa,"O aplicativo é ok, poderia ser melhor",Call Center,Empréstimo,7,2026-05-11
+489,Maria Clara Moraes,Equipe super atenciosa e prestativa,App Mobile,Investimento,9,2026-05-11
+490,Diego Pereira,Experiência terrível do início ao fim,Internet Banking,Cartão de Crédito,0,2026-05-11
+491,Davi Lucas Azevedo,"Sem filas, atendimento ágil e eficaz",Call Center,Pix,9,2026-05-11
+492,Maria Clara Fonseca,Juros altíssimos sem comunicação prévia,Internet Banking,Conta Corrente,0,2026-05-11
+493,Ana Beatriz Pereira,"O aplicativo é ok, poderia ser melhor",App Mobile,Cartão de Crédito,7,2026-05-11
+494,Milena Freitas,"Atendimento razoável, nem bom nem ruim",Chat Online,Empréstimo,7,2026-05-11
+495,Ana Vitória Oliveira,Processo burocrático mas concluído,Agência,Cartão de Crédito,7,2026-05-11
+496,Maria Clara Gonçalves,Transferência falhou e o dinheiro sumiu,Call Center,Empréstimo,1,2026-05-11
+497,Lara da Cruz,App atualizado ficou muito melhor,Call Center,Pix,9,2026-05-11
+498,Francisco Monteiro,Processo burocrático mas concluído,Chat Online,Empréstimo,8,2026-05-11
+499,Bárbara da Luz,Atendente grosseiro e sem paciência,Agência,Investimento,1,2026-05-11
+500,Sra. Hadassa Pimenta,App atualizado ficou muito melhor,Internet Banking,Cartão de Crédito,10,2026-05-11
+501,Sra. Gabriela Campos,"Excelente suporte, problema resolvido em minutos",Call Center,Conta Corrente,9,2026-05-11
+502,Rael Cavalcanti,Esperei bastante mas fui atendido,Call Center,Cartão de Crédito,7,2026-05-11
+503,Liam Rios,"O banco melhorou muito, estou impressionado",Call Center,Empréstimo,9,2026-05-11
+504,Srta. Ágatha da Rocha,"Excelente suporte, problema resolvido em minutos",App Mobile,Empréstimo,9,2026-05-11
+505,Erick Vieira,"Sem filas, atendimento ágil e eficaz",App Mobile,Cartão de Crédito,9,2026-05-11
+506,Heloisa Campos,Impossível falar com um humano no suporte,Chat Online,Cartão de Crédito,5,2026-05-11
+507,Isaac Vieira,Processo burocrático mas concluído,App Mobile,Cartão de Crédito,8,2026-05-11
+508,Luiz Miguel Novaes,App não funciona no meu celular há meses,Call Center,Cartão de Crédito,0,2026-05-11
+509,Dr. Yuri Cardoso,App não funciona no meu celular há meses,Call Center,Cartão de Crédito,1,2026-05-11
+510,Benício das Neves,"Atendimento razoável, nem bom nem ruim",Call Center,Pix,8,2026-05-11
+511,Dra. Pietra Moura,"Serviço horrível, vou trocar de banco",Agência,Pix,2,2026-05-11
+512,Ana Sophia Cardoso,Sistema fora do ar no momento mais importante,Call Center,Empréstimo,0,2026-05-11
+513,Ana Sophia Machado,Taxa abusiva sem nenhuma explicação,Call Center,Conta Corrente,2,2026-05-11
+514,Stella Ferreira,"O aplicativo é ok, poderia ser melhor",App Mobile,Empréstimo,7,2026-05-11
+515,Emilly Vargas,"Experiência mediana, nada marcante",Agência,Cartão de Crédito,8,2026-05-11
+516,Sarah Araújo,Equipe super atenciosa e prestativa,Chat Online,Cartão de Crédito,10,2026-05-11
+517,Daniela da Rosa,Processo burocrático mas concluído,Call Center,Investimento,8,2026-05-11
+518,Lorenzo Santos,Processo burocrático mas concluído,Internet Banking,Pix,7,2026-05-11
+519,Dr. Bruno da Cunha,Cumpriu o que prometeu,Chat Online,Conta Corrente,7,2026-05-11
+520,Kamilly Cardoso,"Aplicativo travou várias vezes, muito ruim",App Mobile,Conta Corrente,6,2026-05-11
+521,Vitor Borges,"O aplicativo é ok, poderia ser melhor",Internet Banking,Conta Corrente,7,2026-05-11
+522,Eloá Pastor,Atendente muito educado e resolveu tudo,App Mobile,Pix,10,2026-05-11
+523,Enzo Gabriel Ribeiro,Experiência terrível do início ao fim,Call Center,Investimento,4,2026-05-11
+524,Dra. Maitê Nunes,App atualizado ficou muito melhor,App Mobile,Conta Corrente,10,2026-05-11
+525,Bruno Aparecida,"Atendimento razoável, nem bom nem ruim",App Mobile,Pix,8,2026-05-11
+526,Julia Rezende,Cancelei o cartão e continuaram cobrando,Internet Banking,Conta Corrente,3,2026-05-11
+527,Maria Vitória Pinto,Transferência falhou e o dinheiro sumiu,Internet Banking,Cartão de Crédito,1,2026-05-11
+528,Theo Pires,"Serviço horrível, vou trocar de banco",Agência,Empréstimo,6,2026-05-11
+529,Kevin Mendes,"Aplicativo travou várias vezes, muito ruim",Call Center,Investimento,2,2026-05-11
+530,Maria Luiza da Rosa,"O aplicativo é ok, poderia ser melhor",App Mobile,Conta Corrente,8,2026-05-11
+531,Bento Castro,"Crédito aprovado rapidamente, processo simples",Chat Online,Investimento,10,2026-05-11
+532,Rafaela Martins,"Atendimento excelente, muito rápido e eficiente",App Mobile,Investimento,9,2026-05-11
+533,Sr. Levi Silva,Cancelei o cartão e continuaram cobrando,Agência,Pix,6,2026-05-11
+534,Sra. Maria Liz Cardoso,"Aplicativo travou várias vezes, muito ruim",App Mobile,Cartão de Crédito,4,2026-05-11
+535,Bianca Dias,Fui bem atendido em todas as etapas,Agência,Conta Corrente,10,2026-05-11
+536,Camila da Mata,Cancelei o cartão e continuaram cobrando,Chat Online,Pix,2,2026-05-11
+537,Diego Brito,"Cobrança indevida na minha conta, absurdo",Agência,Conta Corrente,6,2026-05-11
+538,Matheus Pimenta,Impossível falar com um humano no suporte,Call Center,Conta Corrente,1,2026-05-11
+539,Emanuel Duarte,"Sem filas, atendimento ágil e eficaz",Chat Online,Investimento,9,2026-05-11
+540,Sra. Esther Teixeira,Transferência falhou e o dinheiro sumiu,Call Center,Cartão de Crédito,2,2026-05-11
+541,Sophie Martins,App não funciona no meu celular há meses,App Mobile,Pix,5,2026-05-11
+542,Theo Almeida,Taxa abusiva sem nenhuma explicação,App Mobile,Investimento,0,2026-05-11
+543,Sofia Marques,"Aplicativo funciona muito bem, fácil de usar",Chat Online,Pix,10,2026-05-11
+544,Luiz Gustavo Aragão,Atendente grosseiro e sem paciência,Agência,Conta Corrente,6,2026-05-11
+545,Thales Peixoto,Promessas não cumpridas pelo gerente,Call Center,Cartão de Crédito,3,2026-05-11
+546,Olivia da Paz,"Crédito aprovado rapidamente, processo simples",Internet Banking,Pix,10,2026-05-11
+547,Cauê Lopes,"Aplicativo travou várias vezes, muito ruim",Chat Online,Empréstimo,6,2026-05-11
+548,Luiz Otávio Teixeira,App não funciona no meu celular há meses,App Mobile,Empréstimo,0,2026-05-11
+549,Sr. Murilo Aragão,"Excelente suporte, problema resolvido em minutos",Call Center,Empréstimo,9,2026-05-11
+550,Evelyn Fonseca,"Aplicativo funciona muito bem, fácil de usar",Agência,Investimento,9,2026-05-11
+551,Brayan Gomes,"Resolução rápida do meu problema, fiquei satisfeito",Internet Banking,Conta Corrente,9,2026-05-11
+552,Lara Pinto,Atendente muito educado e resolveu tudo,App Mobile,Conta Corrente,10,2026-05-11
+553,Davi Lucas Brito,App atualizado ficou muito melhor,Chat Online,Pix,9,2026-05-11
+554,Dr. Luiz Otávio Sá,Juros altíssimos sem comunicação prévia,App Mobile,Empréstimo,3,2026-05-11
+555,Thomas Guerra,"Nada de especial, mas funcionou",Chat Online,Pix,7,2026-05-11
+556,Augusto Andrade,"Crédito aprovado rapidamente, processo simples",Internet Banking,Empréstimo,9,2026-05-11
+557,Sra. Olívia Moreira,Atendente muito educado e resolveu tudo,App Mobile,Cartão de Crédito,9,2026-05-11
+558,Théo Carvalho,Esperei bastante mas fui atendido,Call Center,Conta Corrente,8,2026-05-11
+559,Luiza Castro,Equipe super atenciosa e prestativa,Chat Online,Pix,10,2026-05-11
+560,Letícia Pastor,"Aplicativo funciona muito bem, fácil de usar",Agência,Conta Corrente,9,2026-05-11
+561,Sophia Nascimento,Taxa abusiva sem nenhuma explicação,Chat Online,Investimento,6,2026-05-11
+562,Dra. Letícia Melo,Taxa abusiva sem nenhuma explicação,Agência,Investimento,3,2026-05-11
+563,Dr. Daniel Leão,Juros altíssimos sem comunicação prévia,Chat Online,Cartão de Crédito,5,2026-05-11
+564,Apollo Peixoto,"Sem filas, atendimento ágil e eficaz",Call Center,Empréstimo,9,2026-05-11
+565,Ian Silveira,"Crédito aprovado rapidamente, processo simples",Agência,Investimento,10,2026-05-11
+566,Pietra Cavalcante,Promessas não cumpridas pelo gerente,Agência,Investimento,1,2026-05-11
+567,Maria Helena Casa Grande,"Taxa justa e transparente, recomendo",Agência,Conta Corrente,10,2026-05-11
+568,Daniel Correia,Ninguém resolve meu problema faz semanas,Chat Online,Cartão de Crédito,4,2026-05-11
+569,Luara Leão,Transferência falhou e o dinheiro sumiu,Call Center,Cartão de Crédito,0,2026-05-11
+570,Gabrielly Jesus,"Atendimento razoável, nem bom nem ruim",Call Center,Investimento,7,2026-05-11
+571,Olivia Sousa,"Resolução rápida do meu problema, fiquei satisfeito",Agência,Cartão de Crédito,9,2026-05-11
+572,Srta. Stella Costela,Promessas não cumpridas pelo gerente,App Mobile,Investimento,3,2026-05-11
+573,Dr. Vinicius Garcia,Sistema fora do ar no momento mais importante,Call Center,Pix,4,2026-05-11
+574,Raul Nascimento,Esperei bastante mas fui atendido,Agência,Pix,7,2026-05-11
+575,Maria Rocha,"Nada de especial, mas funcionou",Internet Banking,Empréstimo,7,2026-05-11
+576,Sra. Rafaela Correia,"Sem filas, atendimento ágil e eficaz",Chat Online,Investimento,9,2026-05-11
+577,Kaique Câmara,Taxa abusiva sem nenhuma explicação,Call Center,Conta Corrente,6,2026-05-11
+578,Gustavo Henrique Sales,"Resolução rápida do meu problema, fiquei satisfeito",Chat Online,Pix,9,2026-05-11
+579,Dr. Luiz Fernando Novais,"Experiência mediana, nada marcante",Call Center,Empréstimo,7,2026-05-11
+580,Davi Oliveira,"Taxa justa e transparente, recomendo",Agência,Conta Corrente,9,2026-05-11
+581,Maria Laura Ferreira,"Atendimento razoável, nem bom nem ruim",App Mobile,Conta Corrente,8,2026-05-11
+582,Asafe da Paz,App não funciona no meu celular há meses,Agência,Empréstimo,1,2026-05-11
+583,Dr. José Miguel Souza,"Taxa justa e transparente, recomendo",Chat Online,Investimento,9,2026-05-11
+584,Guilherme Nascimento,"Aplicativo funciona muito bem, fácil de usar",Call Center,Empréstimo,10,2026-05-11
+585,Júlia Carvalho,"Atendimento excelente, muito rápido e eficiente",App Mobile,Empréstimo,9,2026-05-11
+586,Isabella da Cruz,Cancelei o cartão e continuaram cobrando,Internet Banking,Cartão de Crédito,6,2026-05-11
+587,Vitória Câmara,Cumpriu o que prometeu,Agência,Pix,7,2026-05-11
+588,Benjamim Brito,"Serviço básico, sem surpresas",Call Center,Cartão de Crédito,7,2026-05-11
+589,Dr. Carlos Eduardo Rodrigues,Gostei muito do novo sistema de pagamentos,Call Center,Conta Corrente,10,2026-05-11
+590,Yan Castro,Experiência terrível do início ao fim,Call Center,Pix,1,2026-05-11
+591,Olívia Mendes,"Atendimento normal, dentro do esperado",Internet Banking,Empréstimo,7,2026-05-11
+592,João Pedro Duarte,Promessas não cumpridas pelo gerente,App Mobile,Pix,6,2026-05-11
+593,Ana Liz Vargas,Fui bem atendido em todas as etapas,Agência,Empréstimo,9,2026-05-11
+594,Isabel Nascimento,"Aplicativo funciona muito bem, fácil de usar",Call Center,Pix,10,2026-05-11
+595,Oliver Cavalcanti,Taxa abusiva sem nenhuma explicação,Call Center,Pix,4,2026-05-11
+596,Sabrina Cirino,"Aplicativo funciona muito bem, fácil de usar",Agência,Investimento,10,2026-05-11
+597,Anthony da Rosa,Juros altíssimos sem comunicação prévia,Agência,Pix,5,2026-05-11
+598,Bianca Farias,Demorou um pouco mas resolveu,App Mobile,Cartão de Crédito,8,2026-05-11
+599,Ísis Moura,"Transferência realizada sem problemas, ótimo serviço",Internet Banking,Pix,10,2026-05-11
+600,Thiago Martins,"Sem filas, atendimento ágil e eficaz",Chat Online,Investimento,9,2026-05-11
+601,Daniel Farias,"Serviço básico, sem surpresas",Chat Online,Cartão de Crédito,7,2026-05-11
+602,Sra. Jade Silva,Demorou um pouco mas resolveu,Agência,Investimento,7,2026-05-11
+603,Lucca Vieira,Juros altíssimos sem comunicação prévia,App Mobile,Investimento,2,2026-05-11
+604,Evelyn Cavalcanti,Fui bem atendido em todas as etapas,Chat Online,Pix,10,2026-05-11
+605,Maria Luiza Lima,Atendente grosseiro e sem paciência,Call Center,Investimento,5,2026-05-11
+606,Sr. Murilo Rios,Sistema fora do ar no momento mais importante,Internet Banking,Conta Corrente,3,2026-05-11
+607,Davi Miguel Mendes,"O aplicativo é ok, poderia ser melhor",App Mobile,Empréstimo,8,2026-05-11
+608,André da Luz,"Resolução rápida do meu problema, fiquei satisfeito",Call Center,Pix,9,2026-05-11
+609,Pietro Sá,Promessas não cumpridas pelo gerente,Chat Online,Pix,3,2026-05-11
+610,Dr. Anthony da Luz,"Aplicativo funciona muito bem, fácil de usar",Chat Online,Empréstimo,10,2026-05-11
+611,Sr. Bento Rios,"Atendimento normal, dentro do esperado",Chat Online,Cartão de Crédito,8,2026-05-11
+612,Lorena Castro,"Aplicativo travou várias vezes, muito ruim",Internet Banking,Empréstimo,5,2026-05-11
+613,Sarah Santos,"Péssimo atendimento, fiquei horas esperando",Agência,Empréstimo,3,2026-05-11
+614,Srta. Laís Freitas,"Aplicativo travou várias vezes, muito ruim",App Mobile,Cartão de Crédito,3,2026-05-11
+615,Henry Carvalho,"Excelente suporte, problema resolvido em minutos",Chat Online,Investimento,10,2026-05-11
+616,Rafael Souza,"Transferência realizada sem problemas, ótimo serviço",Internet Banking,Conta Corrente,9,2026-05-11
+617,Dr. Yan Melo,Cumpriu o que prometeu,Chat Online,Pix,8,2026-05-11
+618,Helena Teixeira,"Excelente suporte, problema resolvido em minutos",Agência,Pix,10,2026-05-11
+619,Anna Liz Moura,Fui bem atendido em todas as etapas,Internet Banking,Investimento,9,2026-05-11
+620,Maria Cecília Barbosa,"Serviço horrível, vou trocar de banco",Internet Banking,Cartão de Crédito,6,2026-05-11
+621,Bento Novaes,"Excelente suporte, problema resolvido em minutos",Internet Banking,Investimento,10,2026-05-11
+622,Vitor Gabriel Cassiano,"Experiência mediana, nada marcante",Call Center,Investimento,8,2026-05-11
+623,Dr. Danilo Rodrigues,"Nada de especial, mas funcionou",Chat Online,Empréstimo,8,2026-05-11
+624,Dra. Rebeca Borges,Experiência terrível do início ao fim,Call Center,Investimento,2,2026-05-11
+625,Ana Laura Marques,"Atendimento excelente, muito rápido e eficiente",Call Center,Empréstimo,9,2026-05-11
+626,Maria Vitória Marques,Promessas não cumpridas pelo gerente,Call Center,Cartão de Crédito,4,2026-05-11
+627,Ravi Rocha,Juros altíssimos sem comunicação prévia,Call Center,Empréstimo,1,2026-05-11
+628,Srta. Maria Laura da Cunha,"Resolução rápida do meu problema, fiquei satisfeito",Chat Online,Pix,10,2026-05-11
+629,Srta. Ana Sophia Aparecida,Fui bem atendido em todas as etapas,Agência,Conta Corrente,10,2026-05-11
+630,Sr. Vitor Hugo Araújo,Gostei muito do novo sistema de pagamentos,App Mobile,Conta Corrente,10,2026-05-11
+631,Ana Beatriz da Paz,"Cobrança indevida na minha conta, absurdo",Call Center,Conta Corrente,3,2026-05-11
+632,Davi Luiz Vargas,Atendente grosseiro e sem paciência,Internet Banking,Empréstimo,1,2026-05-11
+633,Dra. Mariah Freitas,"Serviço digital de qualidade, parabéns",App Mobile,Empréstimo,10,2026-05-11
+634,Maria Flor Garcia,"O banco melhorou muito, estou impressionado",App Mobile,Investimento,9,2026-05-11
+635,Ágatha Carvalho,App não funciona no meu celular há meses,Internet Banking,Investimento,5,2026-05-11
+636,Sr. Felipe Nascimento,App não funciona no meu celular há meses,App Mobile,Cartão de Crédito,0,2026-05-11
+637,Carolina Siqueira,Demorou um pouco mas resolveu,Chat Online,Investimento,7,2026-05-11
+638,Antônio da Rosa,"Excelente suporte, problema resolvido em minutos",App Mobile,Investimento,10,2026-05-11
+639,Ísis Lima,Sistema fora do ar no momento mais importante,Internet Banking,Investimento,0,2026-05-11
+640,Heloísa da Cruz,"Taxa justa e transparente, recomendo",App Mobile,Empréstimo,9,2026-05-11
+641,Sr. João Guilherme Correia,"Resolução rápida do meu problema, fiquei satisfeito",Call Center,Cartão de Crédito,9,2026-05-11
+642,Otto Pimenta,Cancelei o cartão e continuaram cobrando,App Mobile,Pix,1,2026-05-11
+643,Gustavo Azevedo,"Experiência mediana, nada marcante",Call Center,Empréstimo,7,2026-05-11
+644,Ana Beatriz Machado,Cancelei o cartão e continuaram cobrando,Internet Banking,Investimento,5,2026-05-11
+645,Ana Julia da Cruz,Sistema fora do ar no momento mais importante,Internet Banking,Conta Corrente,6,2026-05-11
+646,Maysa da Conceição,"Cobrança indevida na minha conta, absurdo",App Mobile,Pix,6,2026-05-11
+647,Benjamin Carvalho,Taxa abusiva sem nenhuma explicação,Agência,Cartão de Crédito,3,2026-05-11
+648,Igor Siqueira,Gostei muito do novo sistema de pagamentos,Internet Banking,Pix,9,2026-05-11
+649,Dr. Isaac da Rosa,App não funciona no meu celular há meses,Agência,Conta Corrente,4,2026-05-11
+650,Stephany Câmara,Cancelei o cartão e continuaram cobrando,Internet Banking,Pix,2,2026-05-11
+651,João Guilherme Araújo,Ninguém resolve meu problema faz semanas,Call Center,Empréstimo,5,2026-05-11
+652,Emanuella Pires,Promessas não cumpridas pelo gerente,Internet Banking,Investimento,6,2026-05-11
+653,Sabrina Aragão,Equipe super atenciosa e prestativa,Chat Online,Conta Corrente,10,2026-05-11
+654,Maria Helena Viana,"Atendimento normal, dentro do esperado",Agência,Cartão de Crédito,8,2026-05-11
+655,Dr. Nicolas Cassiano,Fui bem atendido em todas as etapas,Agência,Pix,10,2026-05-11
+656,Ester Sá,Promessas não cumpridas pelo gerente,App Mobile,Conta Corrente,3,2026-05-11
+657,Isabella Câmara,"Atendimento normal, dentro do esperado",Internet Banking,Conta Corrente,8,2026-05-11
+658,Srta. Nicole Araújo,Promessas não cumpridas pelo gerente,Chat Online,Empréstimo,3,2026-05-11
+659,Maria Vitória Novais,Transferência falhou e o dinheiro sumiu,Call Center,Investimento,6,2026-05-11
+660,Mathias da Cruz,"Aplicativo travou várias vezes, muito ruim",Chat Online,Pix,5,2026-05-11
+661,Lucas Ramos,"Serviço horrível, vou trocar de banco",Agência,Conta Corrente,0,2026-05-11
+662,Maria Eduarda Borges,"O aplicativo é ok, poderia ser melhor",Chat Online,Empréstimo,7,2026-05-11
+663,Srta. Ana Júlia da Mata,Gostei muito do novo sistema de pagamentos,Agência,Investimento,9,2026-05-11
+664,Ana Cecília Barbosa,Juros altíssimos sem comunicação prévia,App Mobile,Cartão de Crédito,1,2026-05-11
+665,Helena Mendes,"Crédito aprovado rapidamente, processo simples",Call Center,Pix,9,2026-05-11
+666,Dr. Anthony Gabriel Cunha,"Serviço horrível, vou trocar de banco",Internet Banking,Conta Corrente,5,2026-05-11
+667,Srta. Pietra da Cruz,"Transferência realizada sem problemas, ótimo serviço",Internet Banking,Investimento,9,2026-05-11
+668,Srta. Maria Laura da Costa,Transferência falhou e o dinheiro sumiu,Agência,Cartão de Crédito,4,2026-05-11
+669,Dr. Mateus Martins,"Excelente suporte, problema resolvido em minutos",App Mobile,Conta Corrente,10,2026-05-11
+670,Maria Alice das Neves,"Crédito aprovado rapidamente, processo simples",Chat Online,Conta Corrente,10,2026-05-11
+671,Dr. Ravi Lucca Brito,"Sem filas, atendimento ágil e eficaz",Call Center,Investimento,9,2026-05-11
+672,Sr. Léo Dias,"Atendimento normal, dentro do esperado",Chat Online,Cartão de Crédito,8,2026-05-11
+673,Henry Sousa,"Resolução rápida do meu problema, fiquei satisfeito",Chat Online,Conta Corrente,9,2026-05-11
+674,José Pedro Novaes,App atualizado ficou muito melhor,App Mobile,Conta Corrente,9,2026-05-11
+675,Maria Vitória da Rocha,Atendente muito educado e resolveu tudo,Call Center,Cartão de Crédito,10,2026-05-11
+676,Lucas da Conceição,Fui bem atendido em todas as etapas,Chat Online,Investimento,9,2026-05-11
+677,Isabelly Monteiro,Equipe super atenciosa e prestativa,Agência,Empréstimo,10,2026-05-11
+678,Maitê da Cunha,Impossível falar com um humano no suporte,App Mobile,Pix,2,2026-05-11
+679,Dra. Rebeca Marques,"Péssimo atendimento, fiquei horas esperando",Internet Banking,Pix,1,2026-05-11
+680,Sra. Eloá Carvalho,Atendente grosseiro e sem paciência,Call Center,Empréstimo,0,2026-05-11
+681,Ester Nogueira,"Serviço horrível, vou trocar de banco",App Mobile,Pix,2,2026-05-11
+682,Vinicius Andrade,Processo burocrático mas concluído,Agência,Pix,7,2026-05-11
+683,Ana Julia Teixeira,App não funciona no meu celular há meses,Internet Banking,Investimento,4,2026-05-11
+684,Cecilia Pires,Atendente muito educado e resolveu tudo,Chat Online,Cartão de Crédito,9,2026-05-11
+685,Dom Albuquerque,"Serviço digital de qualidade, parabéns",App Mobile,Cartão de Crédito,10,2026-05-11
+686,Mirella Freitas,"Atendimento normal, dentro do esperado",App Mobile,Investimento,8,2026-05-11
+687,Rafaela Ribeiro,App não funciona no meu celular há meses,App Mobile,Cartão de Crédito,2,2026-05-11
+688,André Nascimento,"O aplicativo é ok, poderia ser melhor",Call Center,Conta Corrente,8,2026-05-11
+689,Alice Almeida,"Cobrança indevida na minha conta, absurdo",Agência,Conta Corrente,5,2026-05-11
+690,Sra. Zoe da Paz,Equipe super atenciosa e prestativa,Agência,Investimento,10,2026-05-11
+691,Marina Cavalcanti,"Aplicativo travou várias vezes, muito ruim",App Mobile,Pix,4,2026-05-11
+692,Vinicius Cassiano,Fui bem atendido em todas as etapas,App Mobile,Pix,10,2026-05-11
+693,Vinicius da Cunha,Esperei bastante mas fui atendido,Internet Banking,Empréstimo,7,2026-05-11
+694,Miguel Barros,"O banco melhorou muito, estou impressionado",Agência,Empréstimo,10,2026-05-11
+695,Natália Nunes,"O aplicativo é ok, poderia ser melhor",Internet Banking,Cartão de Crédito,7,2026-05-11
+696,Srta. Letícia Rodrigues,Impossível falar com um humano no suporte,Internet Banking,Conta Corrente,0,2026-05-11
+697,Ana Beatriz Borges,Atendente muito educado e resolveu tudo,Call Center,Conta Corrente,10,2026-05-11
+698,Maria Flor Novaes,"O aplicativo é ok, poderia ser melhor",Agência,Investimento,8,2026-05-11
+699,Anthony Sampaio,"Aplicativo funciona muito bem, fácil de usar",Internet Banking,Empréstimo,9,2026-05-11
+700,Theo Lopes,App não funciona no meu celular há meses,App Mobile,Cartão de Crédito,4,2026-05-11
+701,Sr. Vinícius Aparecida,Taxa abusiva sem nenhuma explicação,App Mobile,Cartão de Crédito,1,2026-05-11
+702,Renan da Mata,Atendente grosseiro e sem paciência,App Mobile,Empréstimo,4,2026-05-11
+703,João Lucas Nogueira,"Transferência realizada sem problemas, ótimo serviço",Call Center,Investimento,9,2026-05-11
+704,Ana Beatriz Cavalcanti,Cumpriu o que prometeu,App Mobile,Investimento,7,2026-05-11
+705,Gustavo Henrique Pastor,"Taxa justa e transparente, recomendo",App Mobile,Conta Corrente,9,2026-05-11
+706,Sra. Ana Vitória da Rosa,"Taxa justa e transparente, recomendo",Internet Banking,Cartão de Crédito,9,2026-05-11
+707,Isabella Nunes,Taxa abusiva sem nenhuma explicação,App Mobile,Pix,5,2026-05-11
+708,Ágatha Farias,"Nada de especial, mas funcionou",App Mobile,Cartão de Crédito,7,2026-05-11
+709,Srta. Anna Liz Montenegro,Sistema fora do ar no momento mais importante,Internet Banking,Conta Corrente,6,2026-05-11
+710,Carlos Eduardo Lopes,Juros altíssimos sem comunicação prévia,Agência,Conta Corrente,6,2026-05-11
+711,Luigi Pereira,Atendente muito educado e resolveu tudo,Internet Banking,Pix,9,2026-05-11
+712,Maria Laura Vasconcelos,Esperei bastante mas fui atendido,App Mobile,Investimento,8,2026-05-11
+713,João Gabriel Viana,"Cobrança indevida na minha conta, absurdo",Internet Banking,Cartão de Crédito,2,2026-05-11
+714,Heloísa Fogaça,Atendente muito educado e resolveu tudo,App Mobile,Pix,9,2026-05-11
+715,Marina Cirino,Ninguém resolve meu problema faz semanas,Agência,Investimento,5,2026-05-11
+716,Maria Helena Barros,Cumpriu o que prometeu,App Mobile,Conta Corrente,8,2026-05-11
+717,Josué Silva,"Transferência realizada sem problemas, ótimo serviço",Internet Banking,Pix,10,2026-05-11
+718,João Felipe Cassiano,"Taxa justa e transparente, recomendo",Call Center,Empréstimo,9,2026-05-11
+719,Dra. Daniela Sousa,"Serviço básico, sem surpresas",Chat Online,Pix,8,2026-05-11
+720,Dr. Cauê Borges,"Resolução rápida do meu problema, fiquei satisfeito",App Mobile,Empréstimo,9,2026-05-11
+721,Pedro Miguel Fonseca,"Atendimento normal, dentro do esperado",App Mobile,Investimento,8,2026-05-11
+722,Davi Lucca Borges,"Experiência mediana, nada marcante",Internet Banking,Conta Corrente,7,2026-05-11
+723,Melissa Novais,Equipe super atenciosa e prestativa,Chat Online,Conta Corrente,10,2026-05-11
+724,Maria Luísa Caldeira,Ninguém resolve meu problema faz semanas,Call Center,Empréstimo,4,2026-05-11
+725,Luiz Gustavo Novaes,Juros altíssimos sem comunicação prévia,Internet Banking,Cartão de Crédito,1,2026-05-11
+726,Lunna Gomes,Processo burocrático mas concluído,Agência,Pix,7,2026-05-11
+727,Noah Gomes,"Experiência mediana, nada marcante",Call Center,Pix,7,2026-05-11
+728,Dra. Isabelly Oliveira,Atendente muito educado e resolveu tudo,App Mobile,Conta Corrente,9,2026-05-11
+729,Mateus Cavalcante,Equipe super atenciosa e prestativa,Chat Online,Investimento,9,2026-05-11
+730,Kevin da Mata,"Serviço digital de qualidade, parabéns",Internet Banking,Empréstimo,9,2026-05-11
+731,Benício Cavalcante,Experiência terrível do início ao fim,Agência,Conta Corrente,6,2026-05-11
+732,Otto da Rosa,"Sem filas, atendimento ágil e eficaz",App Mobile,Pix,9,2026-05-11
+733,Luiz Miguel da Cunha,"Aplicativo travou várias vezes, muito ruim",Call Center,Pix,2,2026-05-11
+734,Dra. Sabrina Peixoto,"Resolução rápida do meu problema, fiquei satisfeito",Internet Banking,Cartão de Crédito,10,2026-05-11
+735,Raul Caldeira,Atendente grosseiro e sem paciência,Call Center,Empréstimo,6,2026-05-11
+736,André Gonçalves,App atualizado ficou muito melhor,Internet Banking,Pix,10,2026-05-11
+737,Maria Helena Farias,Atendente grosseiro e sem paciência,Agência,Cartão de Crédito,2,2026-05-11
+738,Dr. Davi Luiz da Rosa,"Atendimento excelente, muito rápido e eficiente",Chat Online,Conta Corrente,10,2026-05-11
+739,Gabriela Mendes,"O banco melhorou muito, estou impressionado",Chat Online,Conta Corrente,9,2026-05-11
+740,Miguel Dias,"Cobrança indevida na minha conta, absurdo",App Mobile,Cartão de Crédito,2,2026-05-11
+741,Dra. Rebeca Oliveira,"O banco melhorou muito, estou impressionado",App Mobile,Empréstimo,9,2026-05-11
+742,Dr. João Lucas Viana,"Atendimento razoável, nem bom nem ruim",Internet Banking,Conta Corrente,7,2026-05-11
+743,Sr. Guilherme Pastor,"Taxa justa e transparente, recomendo",App Mobile,Conta Corrente,9,2026-05-11
+744,Yan Alves,"Excelente suporte, problema resolvido em minutos",Internet Banking,Investimento,10,2026-05-11
+745,Srta. Maysa da Rocha,Esperei bastante mas fui atendido,Chat Online,Investimento,8,2026-05-11
+746,Sara Carvalho,Atendente muito educado e resolveu tudo,Internet Banking,Investimento,9,2026-05-11
+747,Isaque da Cunha,Fui bem atendido em todas as etapas,Agência,Conta Corrente,9,2026-05-11
+748,Otávio Vieira,"Aplicativo funciona muito bem, fácil de usar",Agência,Cartão de Crédito,9,2026-05-11
+749,Pietro Peixoto,"Cobrança indevida na minha conta, absurdo",App Mobile,Pix,5,2026-05-11
+750,Maria Liz Nascimento,"Aplicativo travou várias vezes, muito ruim",Chat Online,Pix,2,2026-05-11
+751,Sra. Ísis Andrade,App não funciona no meu celular há meses,Call Center,Cartão de Crédito,0,2026-05-11
+752,Dra. Antonella Caldeira,Atendente grosseiro e sem paciência,App Mobile,Conta Corrente,1,2026-05-11
+753,Maria Cavalcante,Equipe super atenciosa e prestativa,Chat Online,Pix,10,2026-05-11
+754,Ana Clara Nunes,"Resolução rápida do meu problema, fiquei satisfeito",Internet Banking,Conta Corrente,10,2026-05-11
+755,Maria Liz Sá,"Sem filas, atendimento ágil e eficaz",Internet Banking,Conta Corrente,10,2026-05-11
+756,Bianca Albuquerque,"Crédito aprovado rapidamente, processo simples",Agência,Pix,9,2026-05-11
+757,Henry Moraes,"Nada de especial, mas funcionou",Internet Banking,Cartão de Crédito,7,2026-05-11
+758,Hellena Machado,"Aplicativo travou várias vezes, muito ruim",App Mobile,Empréstimo,3,2026-05-11
+759,Nicole Vargas,Sistema fora do ar no momento mais importante,Agência,Conta Corrente,3,2026-05-11
+760,Dra. Clarice Ferreira,Atendente grosseiro e sem paciência,Agência,Investimento,1,2026-05-11
+761,Bella da Rocha,Atendente muito educado e resolveu tudo,Agência,Investimento,9,2026-05-11
+762,Danilo Siqueira,"O aplicativo é ok, poderia ser melhor",Chat Online,Conta Corrente,8,2026-05-11
+763,Dr. Luigi Marques,"Excelente suporte, problema resolvido em minutos",App Mobile,Empréstimo,9,2026-05-11
+764,Rafaela Ferreira,Atendente grosseiro e sem paciência,Chat Online,Cartão de Crédito,6,2026-05-11
+765,Pedro Lucas Silveira,Esperei bastante mas fui atendido,Chat Online,Investimento,8,2026-05-11
+766,Sr. Kaique Aparecida,"O aplicativo é ok, poderia ser melhor",Agência,Conta Corrente,8,2026-05-11
+767,Luigi Ramos,Fui bem atendido em todas as etapas,Chat Online,Pix,9,2026-05-11
+768,Eloah Sousa,Promessas não cumpridas pelo gerente,Chat Online,Cartão de Crédito,4,2026-05-11
+769,Emanuella Novaes,"Taxa justa e transparente, recomendo",Internet Banking,Cartão de Crédito,10,2026-05-11
+770,Dr. Ravi da Conceição,Promessas não cumpridas pelo gerente,Internet Banking,Conta Corrente,1,2026-05-11
+771,Ester Cirino,Esperei bastante mas fui atendido,Internet Banking,Pix,7,2026-05-11
+772,Marina Gonçalves,"Serviço digital de qualidade, parabéns",App Mobile,Investimento,9,2026-05-11
+773,Dra. Fernanda Machado,Cumpriu o que prometeu,Agência,Pix,8,2026-05-11
+774,Maria Julia Abreu,"Atendimento normal, dentro do esperado",App Mobile,Investimento,8,2026-05-11
+775,João Lucas Sá,"Sem filas, atendimento ágil e eficaz",App Mobile,Pix,9,2026-05-11
+776,Bella Nascimento,Promessas não cumpridas pelo gerente,Chat Online,Empréstimo,2,2026-05-11
+777,Dr. Gael Henrique Marques,"Serviço horrível, vou trocar de banco",Call Center,Pix,3,2026-05-11
+778,Samuel Moura,"Péssimo atendimento, fiquei horas esperando",Agência,Investimento,1,2026-05-11
+779,Dr. Matteo Pastor,"Sem filas, atendimento ágil e eficaz",App Mobile,Investimento,10,2026-05-11
+780,Dr. Raul Pinto,Taxa abusiva sem nenhuma explicação,Internet Banking,Conta Corrente,5,2026-05-11
+781,Letícia Pimenta,Experiência terrível do início ao fim,Agência,Conta Corrente,2,2026-05-11
+782,Davi Luiz Dias,"Taxa justa e transparente, recomendo",Agência,Empréstimo,10,2026-05-11
+783,Leandro Camargo,Juros altíssimos sem comunicação prévia,App Mobile,Cartão de Crédito,5,2026-05-11
+784,Sr. Thomas Gomes,"Excelente suporte, problema resolvido em minutos",Agência,Empréstimo,10,2026-05-11
+785,Cecilia Oliveira,Impossível falar com um humano no suporte,App Mobile,Cartão de Crédito,5,2026-05-11
+786,Ester Mendonça,Esperei bastante mas fui atendido,Chat Online,Empréstimo,8,2026-05-11
+787,Emanuella Novais,Transferência falhou e o dinheiro sumiu,Internet Banking,Conta Corrente,6,2026-05-11
+788,Laura Carvalho,App atualizado ficou muito melhor,Internet Banking,Pix,10,2026-05-11
+789,Dr. Benjamim Fogaça,"Péssimo atendimento, fiquei horas esperando",Internet Banking,Cartão de Crédito,1,2026-05-11
+790,Catarina Correia,Ninguém resolve meu problema faz semanas,Call Center,Conta Corrente,0,2026-05-11
+791,Sofia Rezende,App não funciona no meu celular há meses,Agência,Empréstimo,1,2026-05-11
+792,Rebeca Leão,Transferência falhou e o dinheiro sumiu,App Mobile,Conta Corrente,3,2026-05-11
+793,Eloah Barros,Atendente muito educado e resolveu tudo,Internet Banking,Investimento,10,2026-05-11
+794,Henry da Rocha,Processo burocrático mas concluído,Internet Banking,Empréstimo,8,2026-05-11
+795,Henry Gabriel Nascimento,App não funciona no meu celular há meses,Agência,Conta Corrente,0,2026-05-11
+796,Raul Nunes,"Transferência realizada sem problemas, ótimo serviço",Internet Banking,Cartão de Crédito,9,2026-05-11
+797,Sophia Camargo,"Serviço horrível, vou trocar de banco",Call Center,Pix,5,2026-05-11
+798,João Felipe Vasconcelos,"Taxa justa e transparente, recomendo",Call Center,Cartão de Crédito,9,2026-05-11
+799,Sr. Pedro Lucas Nogueira,Impossível falar com um humano no suporte,App Mobile,Cartão de Crédito,6,2026-05-11
+800,Bella Sousa,"Taxa justa e transparente, recomendo",Agência,Investimento,10,2026-05-11
+801,Kaique Andrade,Juros altíssimos sem comunicação prévia,Call Center,Empréstimo,2,2026-05-11
+802,Luiz Fernando Borges,"Resolução rápida do meu problema, fiquei satisfeito",Chat Online,Conta Corrente,10,2026-05-11
+803,Isaac Costela,Gostei muito do novo sistema de pagamentos,Chat Online,Pix,10,2026-05-11
+804,Sra. Mariane Cavalcante,"Serviço horrível, vou trocar de banco",App Mobile,Investimento,5,2026-05-11
+805,Gustavo Costela,"Resolução rápida do meu problema, fiquei satisfeito",Agência,Empréstimo,10,2026-05-11
+806,Marcela Nascimento,Experiência terrível do início ao fim,Agência,Cartão de Crédito,5,2026-05-11
+807,Zoe Cavalcante,"Taxa justa e transparente, recomendo",App Mobile,Pix,9,2026-05-11
+808,Sra. Lavínia Oliveira,Processo burocrático mas concluído,App Mobile,Investimento,7,2026-05-11
+809,Aylla Carvalho,"Serviço horrível, vou trocar de banco",Call Center,Investimento,3,2026-05-11
+810,João Guilherme Rezende,Impossível falar com um humano no suporte,Chat Online,Cartão de Crédito,5,2026-05-11
+811,Srta. Isadora Casa Grande,"Excelente suporte, problema resolvido em minutos",Chat Online,Investimento,9,2026-05-11
+812,Matteo Mendonça,Cancelei o cartão e continuaram cobrando,Chat Online,Empréstimo,2,2026-05-11
+813,Juliana Pires,Juros altíssimos sem comunicação prévia,Chat Online,Cartão de Crédito,5,2026-05-11
+814,Milena Barbosa,Atendente muito educado e resolveu tudo,Agência,Pix,9,2026-05-11
+815,Nathan Moraes,"Cobrança indevida na minha conta, absurdo",Agência,Conta Corrente,5,2026-05-11
+816,Sra. Mirella Mendonça,Equipe super atenciosa e prestativa,Call Center,Empréstimo,10,2026-05-11
+817,Agatha Vasconcelos,"Sem filas, atendimento ágil e eficaz",Call Center,Conta Corrente,10,2026-05-11
+818,Sra. Maria Alice Azevedo,"Experiência mediana, nada marcante",Call Center,Cartão de Crédito,7,2026-05-11
+819,Helena Lima,Esperei bastante mas fui atendido,Call Center,Conta Corrente,8,2026-05-11
+820,Juliana Duarte,"Cobrança indevida na minha conta, absurdo",Internet Banking,Empréstimo,1,2026-05-11
+821,Sr. Ryan Viana,"Experiência mediana, nada marcante",Internet Banking,Empréstimo,8,2026-05-11
+822,Ana Julia Aparecida,"Cobrança indevida na minha conta, absurdo",App Mobile,Investimento,6,2026-05-11
+823,Natália Almeida,"Transferência realizada sem problemas, ótimo serviço",App Mobile,Conta Corrente,10,2026-05-11
+824,Pedro Lucas Marques,"O aplicativo é ok, poderia ser melhor",Chat Online,Cartão de Crédito,7,2026-05-11
+825,Gabriela Sales,"Nada de especial, mas funcionou",Chat Online,Investimento,7,2026-05-11
+826,Liz Castro,Atendente grosseiro e sem paciência,Call Center,Investimento,3,2026-05-11
+827,Luiz Miguel da Cunha,App atualizado ficou muito melhor,Agência,Conta Corrente,9,2026-05-11
+828,Sr. Benjamim Gonçalves,Promessas não cumpridas pelo gerente,Chat Online,Cartão de Crédito,6,2026-05-11
+829,Igor Lima,"Atendimento excelente, muito rápido e eficiente",Internet Banking,Empréstimo,9,2026-05-11
+830,Calebe Abreu,"Aplicativo funciona muito bem, fácil de usar",Chat Online,Pix,10,2026-05-11
+831,Ana Vitória Cardoso,"Aplicativo funciona muito bem, fácil de usar",Agência,Empréstimo,9,2026-05-11
+832,Valentim Rodrigues,Cumpriu o que prometeu,Call Center,Cartão de Crédito,8,2026-05-11
+833,Anthony Sampaio,"Serviço digital de qualidade, parabéns",Agência,Cartão de Crédito,10,2026-05-11
+834,Otávio Sales,"Serviço digital de qualidade, parabéns",App Mobile,Cartão de Crédito,10,2026-05-11
+835,Ana Sophia da Conceição,"Transferência realizada sem problemas, ótimo serviço",App Mobile,Pix,9,2026-05-11
+836,Cauã Caldeira,"Nada de especial, mas funcionou",App Mobile,Investimento,8,2026-05-11
+837,Dr. Davi Miguel Garcia,"Serviço horrível, vou trocar de banco",Chat Online,Pix,6,2026-05-11
+838,Cecília Azevedo,"Atendimento excelente, muito rápido e eficiente",App Mobile,Conta Corrente,9,2026-05-11
+839,Alexia Pimenta,Atendente grosseiro e sem paciência,Call Center,Conta Corrente,3,2026-05-11
+840,Pedro Lucas Ferreira,"Serviço básico, sem surpresas",Internet Banking,Conta Corrente,7,2026-05-11
+841,Clarice Jesus,Gostei muito do novo sistema de pagamentos,Chat Online,Empréstimo,9,2026-05-11
+842,Melina Cunha,App não funciona no meu celular há meses,Call Center,Conta Corrente,1,2026-05-11
+843,Davi Miguel Sá,"Experiência mediana, nada marcante",Agência,Conta Corrente,7,2026-05-11
+844,Maria Isis Ferreira,Sistema fora do ar no momento mais importante,Chat Online,Cartão de Crédito,1,2026-05-11
+845,Sr. Josué da Mota,Juros altíssimos sem comunicação prévia,Internet Banking,Empréstimo,4,2026-05-11
+846,Josué Novaes,"Serviço horrível, vou trocar de banco",App Mobile,Pix,1,2026-05-11
+847,Larissa Vasconcelos,"O aplicativo é ok, poderia ser melhor",Agência,Cartão de Crédito,8,2026-05-11
+848,Liz Costela,Gostei muito do novo sistema de pagamentos,App Mobile,Pix,9,2026-05-11
+849,Sophia Correia,"Cobrança indevida na minha conta, absurdo",Chat Online,Conta Corrente,0,2026-05-11
+850,Benjamim Viana,"Aplicativo travou várias vezes, muito ruim",Internet Banking,Investimento,2,2026-05-11
+851,Maria Isis Camargo,"Serviço horrível, vou trocar de banco",Call Center,Conta Corrente,2,2026-05-11
+852,Ana Sophia Moura,"Transferência realizada sem problemas, ótimo serviço",Agência,Empréstimo,9,2026-05-11
+853,Dr. Davi Lucca Gomes,Taxa abusiva sem nenhuma explicação,App Mobile,Conta Corrente,3,2026-05-11
+854,Maria Clara Nogueira,Experiência terrível do início ao fim,App Mobile,Cartão de Crédito,0,2026-05-11
+855,Ana Sophia Almeida,"Cobrança indevida na minha conta, absurdo",Agência,Investimento,2,2026-05-11
+856,Anthony Gabriel da Luz,"Serviço horrível, vou trocar de banco",App Mobile,Empréstimo,5,2026-05-11
+857,Bento Vieira,"Cobrança indevida na minha conta, absurdo",Call Center,Investimento,0,2026-05-11
+858,Laura Pires,"Serviço horrível, vou trocar de banco",Call Center,Investimento,6,2026-05-11
+859,Mariana Sampaio,Cancelei o cartão e continuaram cobrando,Internet Banking,Conta Corrente,6,2026-05-11
+860,Vitor Gabriel Nascimento,"Excelente suporte, problema resolvido em minutos",Internet Banking,Conta Corrente,9,2026-05-11
+861,João Lucas Barros,"Experiência mediana, nada marcante",Chat Online,Investimento,8,2026-05-11
+862,Thomas Costela,"Crédito aprovado rapidamente, processo simples",Chat Online,Conta Corrente,10,2026-05-11
+863,Lunna Gonçalves,Experiência terrível do início ao fim,Internet Banking,Investimento,6,2026-05-11
+864,Ana Luiza das Neves,"Aplicativo travou várias vezes, muito ruim",Call Center,Conta Corrente,3,2026-05-11
+865,Srta. Ana Laura da Cruz,Gostei muito do novo sistema de pagamentos,App Mobile,Pix,10,2026-05-11
+866,Bruna Marques,Impossível falar com um humano no suporte,Chat Online,Cartão de Crédito,5,2026-05-11
+867,Ana Laura das Neves,Cancelei o cartão e continuaram cobrando,Agência,Pix,6,2026-05-11
+868,Srta. Bárbara Albuquerque,"Experiência mediana, nada marcante",Call Center,Cartão de Crédito,7,2026-05-11
+869,Srta. Elisa Monteiro,Esperei bastante mas fui atendido,Chat Online,Pix,7,2026-05-11
+870,Stella Viana,Gostei muito do novo sistema de pagamentos,Chat Online,Investimento,9,2026-05-11
+871,Marcelo Cardoso,Juros altíssimos sem comunicação prévia,App Mobile,Investimento,1,2026-05-11
+872,Srta. Ana Farias,"O banco melhorou muito, estou impressionado",App Mobile,Pix,10,2026-05-11
+873,Vinicius Azevedo,Gostei muito do novo sistema de pagamentos,Call Center,Cartão de Crédito,10,2026-05-11
+874,Dra. Ana Vitória Monteiro,Atendente muito educado e resolveu tudo,App Mobile,Investimento,10,2026-05-11
+875,Maria Cecília Araújo,"Nada de especial, mas funcionou",App Mobile,Conta Corrente,8,2026-05-11
+876,Eloah Freitas,"Atendimento normal, dentro do esperado",App Mobile,Pix,7,2026-05-11
+877,Cauã Oliveira,Cancelei o cartão e continuaram cobrando,Chat Online,Pix,2,2026-05-11
+878,Thomas Abreu,Gostei muito do novo sistema de pagamentos,Agência,Empréstimo,10,2026-05-11
+879,Joaquim Aparecida,Juros altíssimos sem comunicação prévia,Call Center,Empréstimo,1,2026-05-11
+880,Dr. Dom Cavalcanti,"Experiência mediana, nada marcante",Agência,Investimento,8,2026-05-11
+881,Mariah Câmara,"Taxa justa e transparente, recomendo",App Mobile,Empréstimo,9,2026-05-11
+882,Oliver Silveira,Gostei muito do novo sistema de pagamentos,Chat Online,Pix,10,2026-05-11
+883,Breno Oliveira,"Aplicativo funciona muito bem, fácil de usar",Internet Banking,Investimento,9,2026-05-11
+884,Theodoro Rocha,"Excelente suporte, problema resolvido em minutos",App Mobile,Empréstimo,10,2026-05-11
+885,Henry Gabriel Moreira,Ninguém resolve meu problema faz semanas,Call Center,Cartão de Crédito,0,2026-05-11
+886,Ana Lívia Martins,"O aplicativo é ok, poderia ser melhor",App Mobile,Investimento,8,2026-05-11
+887,Luan Borges,Gostei muito do novo sistema de pagamentos,Call Center,Investimento,9,2026-05-11
+888,Alexia Freitas,Transferência falhou e o dinheiro sumiu,Call Center,Conta Corrente,1,2026-05-11
+889,Kevin Sousa,"Atendimento normal, dentro do esperado",Chat Online,Investimento,8,2026-05-11
+890,Ravi Freitas,Promessas não cumpridas pelo gerente,Chat Online,Cartão de Crédito,1,2026-05-11
+891,Fernanda Siqueira,"Cobrança indevida na minha conta, absurdo",Call Center,Pix,0,2026-05-11
+892,Dom Abreu,Taxa abusiva sem nenhuma explicação,Call Center,Investimento,4,2026-05-11
+893,Igor Nogueira,Experiência terrível do início ao fim,Internet Banking,Empréstimo,5,2026-05-11
+894,Alexia Farias,"O banco melhorou muito, estou impressionado",Call Center,Cartão de Crédito,10,2026-05-11
+895,Maria Flor Sousa,"Sem filas, atendimento ágil e eficaz",Chat Online,Empréstimo,10,2026-05-11
+896,Gustavo Moura,Experiência terrível do início ao fim,Internet Banking,Cartão de Crédito,4,2026-05-11
+897,Rebeca Araújo,"Excelente suporte, problema resolvido em minutos",Agência,Cartão de Crédito,10,2026-05-11
+898,Sra. Ayla Aparecida,Cancelei o cartão e continuaram cobrando,Chat Online,Pix,1,2026-05-11
+899,Maria Sophia Sampaio,Taxa abusiva sem nenhuma explicação,App Mobile,Empréstimo,5,2026-05-11
+900,Antonella Pacheco,"Experiência mediana, nada marcante",Chat Online,Empréstimo,8,2026-05-11
+901,Catarina Porto,Atendente grosseiro e sem paciência,App Mobile,Pix,6,2026-05-11
+902,Bento Lopes,"Crédito aprovado rapidamente, processo simples",App Mobile,Conta Corrente,9,2026-05-11
+903,João Vitor da Luz,"Taxa justa e transparente, recomendo",Agência,Empréstimo,9,2026-05-11
+904,Lunna Dias,"Atendimento excelente, muito rápido e eficiente",Internet Banking,Pix,10,2026-05-11
+905,Igor Barbosa,Fui bem atendido em todas as etapas,App Mobile,Pix,10,2026-05-11
+906,Cauê Cassiano,App não funciona no meu celular há meses,Internet Banking,Pix,4,2026-05-11
+907,Rael Martins,App atualizado ficou muito melhor,App Mobile,Investimento,10,2026-05-11
+908,Bárbara Nascimento,"Taxa justa e transparente, recomendo",Chat Online,Conta Corrente,10,2026-05-11
+909,Rael das Neves,"Resolução rápida do meu problema, fiquei satisfeito",Chat Online,Investimento,9,2026-05-11
+910,Dante Borges,Experiência terrível do início ao fim,Agência,Pix,5,2026-05-11
+911,Liz Santos,"Experiência mediana, nada marcante",Internet Banking,Empréstimo,7,2026-05-11
+912,Henrique Duarte,"Nada de especial, mas funcionou",Internet Banking,Pix,7,2026-05-11
+913,Josué Fogaça,"Atendimento excelente, muito rápido e eficiente",Agência,Pix,10,2026-05-11
+914,Ana Julia Rocha,"Transferência realizada sem problemas, ótimo serviço",App Mobile,Empréstimo,10,2026-05-11
+915,Erick Alves,Demorou um pouco mas resolveu,Internet Banking,Empréstimo,7,2026-05-11
+916,Isadora Brito,"Experiência mediana, nada marcante",Call Center,Pix,8,2026-05-11
+917,Davi Miguel Campos,"Nada de especial, mas funcionou",Chat Online,Cartão de Crédito,8,2026-05-11
+918,Henry Cardoso,Transferência falhou e o dinheiro sumiu,Chat Online,Cartão de Crédito,0,2026-05-11
+919,Maria Fernanda Rodrigues,Cumpriu o que prometeu,App Mobile,Empréstimo,8,2026-05-11
+920,Antonella Pacheco,Equipe super atenciosa e prestativa,Agência,Empréstimo,10,2026-05-11
+921,Breno Almeida,"Taxa justa e transparente, recomendo",Chat Online,Conta Corrente,10,2026-05-11
+922,Pedro Miguel Cardoso,"O banco melhorou muito, estou impressionado",Internet Banking,Pix,10,2026-05-11
+923,Sr. Asafe Martins,Ninguém resolve meu problema faz semanas,Agência,Investimento,0,2026-05-11
+924,Pedro Silveira,"Aplicativo travou várias vezes, muito ruim",Agência,Pix,3,2026-05-11
+925,Ana Garcia,"Péssimo atendimento, fiquei horas esperando",Agência,Pix,4,2026-05-11
+926,Luiz Gustavo Cunha,Sistema fora do ar no momento mais importante,App Mobile,Empréstimo,3,2026-05-11
+927,João Lucas Machado,Ninguém resolve meu problema faz semanas,Chat Online,Conta Corrente,2,2026-05-11
+928,Joaquim Ramos,"Cobrança indevida na minha conta, absurdo",Chat Online,Pix,6,2026-05-11
+929,Maria Sophia Novaes,"Aplicativo funciona muito bem, fácil de usar",Internet Banking,Investimento,9,2026-05-11
+930,Caio da Mota,Ninguém resolve meu problema faz semanas,Call Center,Conta Corrente,4,2026-05-11
+931,Otto Costa,"Cobrança indevida na minha conta, absurdo",Call Center,Empréstimo,0,2026-05-11
+932,Isadora Pires,"Aplicativo funciona muito bem, fácil de usar",Internet Banking,Empréstimo,9,2026-05-11
+933,Mateus Viana,"Experiência mediana, nada marcante",Agência,Investimento,7,2026-05-11
+934,Ísis Viana,Gostei muito do novo sistema de pagamentos,Call Center,Empréstimo,10,2026-05-11
+935,Dr. Mathias da Mata,Gostei muito do novo sistema de pagamentos,Chat Online,Conta Corrente,9,2026-05-11
+936,Liam Peixoto,Impossível falar com um humano no suporte,Chat Online,Conta Corrente,0,2026-05-11
+937,João Lucas Araújo,"Aplicativo travou várias vezes, muito ruim",Chat Online,Conta Corrente,2,2026-05-11
+938,Maria Alice Vargas,Gostei muito do novo sistema de pagamentos,Chat Online,Conta Corrente,10,2026-05-11
+939,Emanuel Brito,"Serviço digital de qualidade, parabéns",Call Center,Investimento,10,2026-05-11
+940,Isabella da Mata,"Péssimo atendimento, fiquei horas esperando",Internet Banking,Pix,3,2026-05-11
+941,Srta. Hellena Oliveira,"Excelente suporte, problema resolvido em minutos",Chat Online,Empréstimo,10,2026-05-11
+942,Sr. Felipe da Costa,"Cobrança indevida na minha conta, absurdo",Agência,Conta Corrente,2,2026-05-11
+943,Dr. Arthur Santos,Cumpriu o que prometeu,App Mobile,Conta Corrente,7,2026-05-11
+944,Cecília Nunes,"Sem filas, atendimento ágil e eficaz",Chat Online,Pix,10,2026-05-11
+945,Ágatha das Neves,"Serviço horrível, vou trocar de banco",Agência,Cartão de Crédito,1,2026-05-11
+946,Ana Carolina Borges,Cumpriu o que prometeu,Internet Banking,Cartão de Crédito,7,2026-05-11
+947,Henry Almeida,Fui bem atendido em todas as etapas,Internet Banking,Conta Corrente,10,2026-05-11
+948,Agatha Farias,"Taxa justa e transparente, recomendo",Chat Online,Investimento,9,2026-05-11
+949,Davi Lucca Fernandes,"Aplicativo travou várias vezes, muito ruim",App Mobile,Empréstimo,2,2026-05-11
+950,Sr. Antônio Casa Grande,"Excelente suporte, problema resolvido em minutos",Agência,Empréstimo,10,2026-05-11
+951,Srta. Brenda Moura,Gostei muito do novo sistema de pagamentos,App Mobile,Empréstimo,9,2026-05-11
+952,Marcelo Santos,Experiência terrível do início ao fim,Agência,Investimento,1,2026-05-11
+953,Beatriz Fernandes,"Experiência mediana, nada marcante",Chat Online,Cartão de Crédito,8,2026-05-11
+954,Sr. Emanuel Siqueira,Processo burocrático mas concluído,Call Center,Cartão de Crédito,8,2026-05-11
+955,Raquel Rezende,Equipe super atenciosa e prestativa,Call Center,Empréstimo,9,2026-05-11
+956,Luiz Henrique Câmara,"Cobrança indevida na minha conta, absurdo",Agência,Investimento,5,2026-05-11
+957,Marcos Vinicius das Neves,Processo burocrático mas concluído,Call Center,Pix,8,2026-05-11
+958,Felipe Siqueira,Gostei muito do novo sistema de pagamentos,Agência,Cartão de Crédito,9,2026-05-11
+959,Dra. Maria Júlia Vargas,Ninguém resolve meu problema faz semanas,App Mobile,Conta Corrente,2,2026-05-11
+960,Fernando Pereira,Juros altíssimos sem comunicação prévia,App Mobile,Pix,4,2026-05-11
+961,Hellena Porto,"Experiência mediana, nada marcante",App Mobile,Pix,7,2026-05-11
+962,Theo Casa Grande,"Serviço digital de qualidade, parabéns",Internet Banking,Empréstimo,10,2026-05-11
+963,Srta. Isabela Ferreira,"Serviço digital de qualidade, parabéns",Internet Banking,Investimento,10,2026-05-11
+964,Caio Santos,"Nada de especial, mas funcionou",Agência,Pix,8,2026-05-11
+965,Sra. Melissa Albuquerque,Equipe super atenciosa e prestativa,Chat Online,Cartão de Crédito,9,2026-05-11
+966,Josué Sales,Demorou um pouco mas resolveu,Call Center,Empréstimo,7,2026-05-11
+967,Dr. Cauê Silveira,"Taxa justa e transparente, recomendo",Internet Banking,Conta Corrente,10,2026-05-11
+968,Matheus Macedo,Equipe super atenciosa e prestativa,Internet Banking,Pix,9,2026-05-11
+969,Noah Monteiro,Taxa abusiva sem nenhuma explicação,Call Center,Investimento,3,2026-05-11
+970,Dr. Carlos Eduardo Mendes,"Péssimo atendimento, fiquei horas esperando",Agência,Conta Corrente,5,2026-05-11
+971,Heloisa Castro,Transferência falhou e o dinheiro sumiu,Agência,Empréstimo,5,2026-05-11
+972,Arthur Gabriel da Rocha,"Experiência mediana, nada marcante",Call Center,Investimento,7,2026-05-11
+973,Dr. Cauã Barbosa,Gostei muito do novo sistema de pagamentos,Chat Online,Empréstimo,9,2026-05-11
+974,Marcos Vinicius Castro,"Serviço digital de qualidade, parabéns",Chat Online,Investimento,9,2026-05-11
+975,Ayla Fernandes,Fui bem atendido em todas as etapas,Call Center,Investimento,10,2026-05-11
+976,Rafaela Santos,"Péssimo atendimento, fiquei horas esperando",Internet Banking,Investimento,4,2026-05-11
+977,Eloah Pereira,"Aplicativo funciona muito bem, fácil de usar",Internet Banking,Cartão de Crédito,10,2026-05-11
+978,Benjamim Brito,"O banco melhorou muito, estou impressionado",Internet Banking,Investimento,9,2026-05-11
+979,Gabriel Jesus,App não funciona no meu celular há meses,Call Center,Investimento,0,2026-05-11
+980,Dra. Ágatha da Luz,"Experiência mediana, nada marcante",Call Center,Conta Corrente,7,2026-05-11
+981,Isaac Brito,"Transferência realizada sem problemas, ótimo serviço",Internet Banking,Pix,9,2026-05-11
+982,Rebeca Cassiano,"Sem filas, atendimento ágil e eficaz",App Mobile,Cartão de Crédito,9,2026-05-11
+983,Sr. Paulo Borges,"Transferência realizada sem problemas, ótimo serviço",Chat Online,Pix,10,2026-05-11
+984,Pietra Costa,Experiência terrível do início ao fim,Agência,Conta Corrente,5,2026-05-11
+985,Gustavo Cavalcante,"Sem filas, atendimento ágil e eficaz",Call Center,Cartão de Crédito,10,2026-05-11
+986,Bruno Melo,"Crédito aprovado rapidamente, processo simples",Chat Online,Cartão de Crédito,9,2026-05-11
+987,Miguel Melo,Transferência falhou e o dinheiro sumiu,Internet Banking,Empréstimo,2,2026-05-11
+988,Julia Borges,Impossível falar com um humano no suporte,App Mobile,Cartão de Crédito,4,2026-05-11
+989,Maria Julia Cirino,"Transferência realizada sem problemas, ótimo serviço",App Mobile,Cartão de Crédito,9,2026-05-11
+990,Maria Eduarda Cirino,Cumpriu o que prometeu,Internet Banking,Pix,8,2026-05-11
+991,João Macedo,Atendente muito educado e resolveu tudo,Chat Online,Pix,9,2026-05-11
+992,Henry Gabriel da Mata,"Aplicativo travou várias vezes, muito ruim",Internet Banking,Pix,3,2026-05-11
+993,Dom Sá,"Atendimento normal, dentro do esperado",Chat Online,Investimento,8,2026-05-11
+994,Luiz Felipe Nogueira,"Atendimento excelente, muito rápido e eficiente",Internet Banking,Investimento,10,2026-05-11
+995,Heloísa Novaes,Atendente grosseiro e sem paciência,Chat Online,Pix,2,2026-05-11
+996,Stephany Leão,"Transferência realizada sem problemas, ótimo serviço",Call Center,Cartão de Crédito,10,2026-05-11
+997,Olívia Oliveira,"Aplicativo travou várias vezes, muito ruim",Chat Online,Pix,2,2026-05-11
+998,Letícia Barros,"O aplicativo é ok, poderia ser melhor",App Mobile,Pix,7,2026-05-11
+999,Srta. Sarah Oliveira,Cumpriu o que prometeu,Call Center,Cartão de Crédito,7,2026-05-11
+1000,Clara Campos,Taxa abusiva sem nenhuma explicação,Agência,Conta Corrente,3,2026-05-11
